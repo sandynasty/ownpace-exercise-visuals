@@ -1,0 +1,55 @@
+{
+  "id": "hip-flexor-stretch",
+  "name_en": "Kneeling Hip Flexor Stretch",
+  "description_en": "Kneeling Hip Flexor Stretch — stretching movement targeting hip-flexors.",
+  "category": "stretching",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "hip-flexors"
+  ],
+  "secondary_muscles": [
+    "quadriceps"
+  ],
+  "difficulty": "beginner",
+  "force_type": "static",
+  "mechanic": "isolation",
+  "motion_type": "hold",
+  "instructions_en": [
+    "Kneel on one knee with the opposite foot forward.",
+    "Gently tuck the pelvis and shift forward until a stretch is felt.",
+    "Switch sides."
+  ],
+  "tips_en": [
+    "Keep torso upright and avoid arching the lower back."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/hip-flexor-stretch-a.webp",
+      "b": "images/webp/hip-flexor-stretch-b.webp",
+      "c": "images/webp/hip-flexor-stretch-c.webp"
+    },
+    "original": {
+      "a": "images/original/hip-flexor-stretch-a.png",
+      "b": "images/original/hip-flexor-stretch-b.png",
+      "c": "images/original/hip-flexor-stretch-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Small phase changes; use final pose as a hold."
+  },
+  "source_batch": 7
+}

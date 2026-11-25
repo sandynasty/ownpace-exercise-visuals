@@ -1,0 +1,10 @@
+{
+  "version":"1.0",
+  "batch":"02",
+  "status":"candidate-review",
+  "blocking_gates":["technical-output","exercise-identity","equipment-mechanics","pose-phase-accuracy","anatomy-and-muscle-map","continuity","branding"],
+  "passed":["bodyweight-squat","goblet-squat","split-squat","reverse-lunge","walking-lunge","step-up","glute-bridge","standing-calf-raise"],
+  "passed_with_caution":["hip-thrust","seated-calf-raise"],
+  "regenerated":["reverse-lunge","walking-lunge"],
+  "rejected_remaining":[]
+}

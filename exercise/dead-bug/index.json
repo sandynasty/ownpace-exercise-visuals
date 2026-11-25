@@ -1,0 +1,54 @@
+{
+  "id": "dead-bug",
+  "name_en": "Dead Bug",
+  "description_en": "Dead Bug — strength movement targeting core.",
+  "category": "strength",
+  "body_part": "core",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "core"
+  ],
+  "secondary_muscles": [
+    "hip-flexors"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Lie on the back with arms raised and hips and knees bent.",
+    "Extend opposite arm and leg, return, then switch."
+  ],
+  "tips_en": [
+    "Keep the lower back controlled and shorten the range if it arches."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/dead-bug-a.webp",
+      "b": "images/webp/dead-bug-b.webp",
+      "c": "images/webp/dead-bug-c.webp"
+    },
+    "original": {
+      "a": "images/original/dead-bug-a.png",
+      "b": "images/original/dead-bug-b.png",
+      "c": "images/original/dead-bug-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Check contralateral limb pairing in all frames."
+  },
+  "source_batch": 6
+}

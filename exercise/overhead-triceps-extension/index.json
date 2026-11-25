@@ -1,0 +1,53 @@
+{
+  "id": "overhead-triceps-extension",
+  "name_en": "Overhead Triceps Extension",
+  "description_en": "Overhead Triceps Extension — strength movement targeting triceps.",
+  "category": "strength",
+  "body_part": "arms",
+  "equipment": "dumbbell",
+  "equipment_list": [
+    "dumbbell",
+    "bench"
+  ],
+  "primary_muscles": [
+    "triceps"
+  ],
+  "secondary_muscles": [],
+  "difficulty": "intermediate",
+  "force_type": "push",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Sit securely and hold one dumbbell overhead with both hands.",
+    "Bend elbows to lower behind the head, then extend."
+  ],
+  "tips_en": [
+    "Use a manageable weight and keep elbows comfortably aligned."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/overhead-triceps-extension-a.webp",
+      "b": "images/webp/overhead-triceps-extension-b.webp",
+      "c": "images/webp/overhead-triceps-extension-c.webp"
+    },
+    "original": {
+      "a": "images/original/overhead-triceps-extension-a.png",
+      "b": "images/original/overhead-triceps-extension-b.png",
+      "c": "images/original/overhead-triceps-extension-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Previously reassigned imagery; confirm load and grip."
+  },
+  "source_batch": 6
+}

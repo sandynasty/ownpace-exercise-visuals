@@ -1,0 +1,273 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "name",
+    "schema_version",
+    "version",
+    "license",
+    "count",
+    "frame_count",
+    "language",
+    "exercises"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "schema_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "license": {
+      "type": "string",
+      "minLength": 1
+    },
+    "language": {
+      "type": "string",
+      "minLength": 1
+    },
+    "count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "frame_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "exercises": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name_en",
+          "description_en",
+          "category",
+          "body_part",
+          "equipment",
+          "difficulty",
+          "force_type",
+          "mechanic",
+          "motion_type",
+          "equipment_list",
+          "primary_muscles",
+          "secondary_muscles",
+          "instructions_en",
+          "tips_en",
+          "is_bodyweight",
+          "is_unilateral",
+          "images",
+          "frame_order",
+          "qa",
+          "source_batch"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "name_en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description_en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "category": {
+            "enum": [
+              "strength",
+              "cardio",
+              "mobility",
+              "stretching"
+            ]
+          },
+          "body_part": {
+            "type": "string",
+            "minLength": 1
+          },
+          "equipment": {
+            "type": "string",
+            "minLength": 1
+          },
+          "difficulty": {
+            "enum": [
+              "beginner",
+              "intermediate",
+              "advanced"
+            ]
+          },
+          "force_type": {
+            "enum": [
+              "push",
+              "pull",
+              "static",
+              "dynamic"
+            ]
+          },
+          "mechanic": {
+            "enum": [
+              "compound",
+              "isolation"
+            ]
+          },
+          "motion_type": {
+            "enum": [
+              "repetition",
+              "cycle",
+              "hold"
+            ]
+          },
+          "equipment_list": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "primary_muscles": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "secondary_muscles": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "instructions_en": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "tips_en": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "is_bodyweight": {
+            "type": "boolean"
+          },
+          "is_unilateral": {
+            "type": "boolean"
+          },
+          "images": {
+            "type": "object",
+            "required": [
+              "ownpace",
+              "original"
+            ],
+            "properties": {
+              "ownpace": {
+                "type": "object",
+                "required": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "a": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "b": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "c": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              },
+              "original": {
+                "type": "object",
+                "required": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "a": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "b": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "c": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              }
+            }
+          },
+          "frame_order": {
+            "const": [
+              "a",
+              "b",
+              "c"
+            ]
+          },
+          "qa": {
+            "type": "object",
+            "required": [
+              "technical",
+              "biomechanics",
+              "priority",
+              "notes"
+            ],
+            "properties": {
+              "technical": {
+                "enum": [
+                  "passed",
+                  "pending",
+                  "failed"
+                ]
+              },
+              "biomechanics": {
+                "enum": [
+                  "pending",
+                  "approved",
+                  "rejected"
+                ]
+              },
+              "priority": {
+                "enum": [
+                  "high",
+                  "normal"
+                ]
+              },
+              "notes": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "source_batch": {
+            "type": "integer",
+            "minimum": 1
+          }
+        }
+      }
+    }
+  }
+}

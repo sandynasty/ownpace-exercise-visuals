@@ -1,0 +1,55 @@
+{
+  "id": "assisted-pull-up",
+  "name_en": "Assisted Pull-Up",
+  "description_en": "Assisted Pull-Up — strength movement targeting lats.",
+  "category": "strength",
+  "body_part": "back",
+  "equipment": "assisted-pull-up-machine",
+  "equipment_list": [
+    "assisted-pull-up-machine"
+  ],
+  "primary_muscles": [
+    "lats"
+  ],
+  "secondary_muscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "difficulty": "intermediate",
+  "force_type": "pull",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Set sufficient assistance and securely position knees or feet on the support.",
+    "Pull upward and lower slowly."
+  ],
+  "tips_en": [
+    "Avoid swinging and keep control of the support platform."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/assisted-pull-up-a.webp",
+      "b": "images/webp/assisted-pull-up-b.webp",
+      "c": "images/webp/assisted-pull-up-c.webp"
+    },
+    "original": {
+      "a": "images/original/assisted-pull-up-a.png",
+      "b": "images/original/assisted-pull-up-b.png",
+      "c": "images/original/assisted-pull-up-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 5
+}

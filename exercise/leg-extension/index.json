@@ -1,0 +1,52 @@
+{
+  "id": "leg-extension",
+  "name_en": "Leg Extension",
+  "description_en": "Leg Extension — strength movement targeting quadriceps.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "leg-extension-machine",
+  "equipment_list": [
+    "leg-extension-machine"
+  ],
+  "primary_muscles": [
+    "quadriceps"
+  ],
+  "secondary_muscles": [],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Align the knee with the machine pivot and place the pad above the ankles.",
+    "Extend the knees smoothly and lower."
+  ],
+  "tips_en": [
+    "Keep hips against the seat and avoid kicking the load."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/leg-extension-a.webp",
+      "b": "images/webp/leg-extension-b.webp",
+      "c": "images/webp/leg-extension-c.webp"
+    },
+    "original": {
+      "a": "images/original/leg-extension-a.png",
+      "b": "images/original/leg-extension-b.png",
+      "c": "images/original/leg-extension-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 3
+}

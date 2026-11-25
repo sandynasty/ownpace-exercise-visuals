@@ -1,0 +1,56 @@
+{
+  "id": "plank",
+  "name_en": "Forearm Plank",
+  "description_en": "Forearm Plank — strength movement targeting core.",
+  "category": "strength",
+  "body_part": "core",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "core"
+  ],
+  "secondary_muscles": [
+    "deltoids",
+    "glutes"
+  ],
+  "difficulty": "beginner",
+  "force_type": "static",
+  "mechanic": "compound",
+  "motion_type": "hold",
+  "instructions_en": [
+    "Set forearms on the floor with elbows below shoulders.",
+    "Extend legs and hold the body in a straight line.",
+    "Lower to rest."
+  ],
+  "tips_en": [
+    "Breathe normally and avoid sagging at the hips."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/plank-a.webp",
+      "b": "images/webp/plank-b.webp",
+      "c": "images/webp/plank-c.webp"
+    },
+    "original": {
+      "a": "images/original/plank-a.png",
+      "b": "images/original/plank-b.png",
+      "c": "images/original/plank-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 6
+}

@@ -1,0 +1,55 @@
+{
+  "id": "hip-abduction-machine",
+  "name_en": "Hip Abduction Machine",
+  "description_en": "Hip Abduction Machine — strength movement targeting gluteus-medius, gluteus-minimus.",
+  "category": "strength",
+  "body_part": "glutes",
+  "equipment": "hip-abduction-machine",
+  "equipment_list": [
+    "hip-abduction-machine"
+  ],
+  "primary_muscles": [
+    "gluteus-medius",
+    "gluteus-minimus"
+  ],
+  "secondary_muscles": [
+    "glutes"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Sit with the outer thighs against the pads.",
+    "Press the knees outward, pause, then return slowly."
+  ],
+  "tips_en": [
+    "Avoid swinging the torso or forcing the end range."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/hip-abduction-machine-a.webp",
+      "b": "images/webp/hip-abduction-machine-b.webp",
+      "c": "images/webp/hip-abduction-machine-c.webp"
+    },
+    "original": {
+      "a": "images/original/hip-abduction-machine-a.png",
+      "b": "images/original/hip-abduction-machine-b.png",
+      "c": "images/original/hip-abduction-machine-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Review pad positioning and fixed equipment."
+  },
+  "source_batch": 3
+}

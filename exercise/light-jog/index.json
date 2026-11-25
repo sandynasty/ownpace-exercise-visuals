@@ -1,0 +1,56 @@
+{
+  "id": "light-jog",
+  "name_en": "Light Jog",
+  "description_en": "Light Jog — cardio movement targeting quadriceps, calves.",
+  "category": "cardio",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "calves"
+  ],
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Begin at an easy pace with relaxed shoulders.",
+    "Jog with short comfortable strides and natural arm swing."
+  ],
+  "tips_en": [
+    "Increase pace gradually and land softly."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/light-jog-a.webp",
+      "b": "images/webp/light-jog-b.webp",
+      "c": "images/webp/light-jog-c.webp"
+    },
+    "original": {
+      "a": "images/original/light-jog-a.png",
+      "b": "images/original/light-jog-b.png",
+      "c": "images/original/light-jog-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 1
+}

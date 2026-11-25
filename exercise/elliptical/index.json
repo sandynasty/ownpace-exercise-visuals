@@ -1,0 +1,57 @@
+{
+  "id": "elliptical",
+  "name_en": "Elliptical",
+  "description_en": "Elliptical — cardio movement targeting quadriceps, glutes.",
+  "category": "cardio",
+  "body_part": "full-body",
+  "equipment": "elliptical",
+  "equipment_list": [
+    "elliptical"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "calves",
+    "shoulders"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Place feet on the pedals and take hold of the handles.",
+    "Move the pedals smoothly through repeated strides."
+  ],
+  "tips_en": [
+    "Keep feet supported and avoid locking the knees."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/elliptical-a.webp",
+      "b": "images/webp/elliptical-b.webp",
+      "c": "images/webp/elliptical-c.webp"
+    },
+    "original": {
+      "a": "images/original/elliptical-a.png",
+      "b": "images/original/elliptical-b.png",
+      "c": "images/original/elliptical-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Review linkage and foot/handle opposition across frames."
+  },
+  "source_batch": 1
+}

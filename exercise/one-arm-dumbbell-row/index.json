@@ -1,0 +1,59 @@
+{
+  "id": "one-arm-dumbbell-row",
+  "name_en": "One-Arm Dumbbell Row",
+  "description_en": "One-Arm Dumbbell Row — strength movement targeting lats, upper-back.",
+  "category": "strength",
+  "body_part": "back",
+  "equipment": "dumbbell",
+  "equipment_list": [
+    "dumbbell",
+    "bench"
+  ],
+  "primary_muscles": [
+    "lats",
+    "upper-back"
+  ],
+  "secondary_muscles": [
+    "biceps",
+    "rear-deltoids",
+    "core"
+  ],
+  "difficulty": "intermediate",
+  "force_type": "pull",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Support yourself on a stable bench with one hand.",
+    "Pull the dumbbell toward the hip, then lower.",
+    "Switch sides."
+  ],
+  "tips_en": [
+    "Keep hips and shoulders steady rather than twisting."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/one-arm-dumbbell-row-a.webp",
+      "b": "images/webp/one-arm-dumbbell-row-b.webp",
+      "c": "images/webp/one-arm-dumbbell-row-c.webp"
+    },
+    "original": {
+      "a": "images/original/one-arm-dumbbell-row-a.png",
+      "b": "images/original/one-arm-dumbbell-row-b.png",
+      "c": "images/original/one-arm-dumbbell-row-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 5
+}

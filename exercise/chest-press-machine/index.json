@@ -1,0 +1,55 @@
+{
+  "id": "chest-press-machine",
+  "name_en": "Chest Press Machine",
+  "description_en": "Chest Press Machine — strength movement targeting pectorals.",
+  "category": "strength",
+  "body_part": "chest",
+  "equipment": "chest-press-machine",
+  "equipment_list": [
+    "chest-press-machine"
+  ],
+  "primary_muscles": [
+    "pectorals"
+  ],
+  "secondary_muscles": [
+    "triceps",
+    "anterior-deltoids"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Adjust the seat so handles align near chest height.",
+    "Press forward and return under control."
+  ],
+  "tips_en": [
+    "Keep shoulders supported and wrists aligned with forearms."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/chest-press-machine-a.webp",
+      "b": "images/webp/chest-press-machine-b.webp",
+      "c": "images/webp/chest-press-machine-c.webp"
+    },
+    "original": {
+      "a": "images/original/chest-press-machine-a.png",
+      "b": "images/original/chest-press-machine-b.png",
+      "c": "images/original/chest-press-machine-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 4
+}

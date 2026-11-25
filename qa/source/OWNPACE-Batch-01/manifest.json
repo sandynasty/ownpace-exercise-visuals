@@ -1,0 +1,21 @@
+{
+  "batch": "01",
+  "status": "candidate-review",
+  "exercise_count": 10,
+  "frame_count": 30,
+  "dimensions": "512x512",
+  "format": "PNG",
+  "color_space": "sRGB",
+  "exercises": [
+    {"id":"cycling","files":["cycling-a.png","cycling-b.png","cycling-c.png"]},
+    {"id":"stationary-bike","files":["stationary-bike-a.png","stationary-bike-b.png","stationary-bike-c.png"]},
+    {"id":"treadmill-walk","files":["treadmill-walk-a.png","treadmill-walk-b.png","treadmill-walk-c.png"]},
+    {"id":"incline-treadmill-walk","files":["incline-treadmill-walk-a.png","incline-treadmill-walk-b.png","incline-treadmill-walk-c.png"]},
+    {"id":"elliptical","files":["elliptical-a.png","elliptical-b.png","elliptical-c.png"]},
+    {"id":"rowing-machine","files":["rowing-machine-a.png","rowing-machine-b.png","rowing-machine-c.png"]},
+    {"id":"brisk-walk","files":["brisk-walk-a.png","brisk-walk-b.png","brisk-walk-c.png"]},
+    {"id":"light-jog","files":["light-jog-a.png","light-jog-b.png","light-jog-c.png"]},
+    {"id":"arm-circles","files":["arm-circles-a.png","arm-circles-b.png","arm-circles-c.png"]},
+    {"id":"march-in-place","files":["march-in-place-a.png","march-in-place-b.png","march-in-place-c.png"]}
+  ]
+}

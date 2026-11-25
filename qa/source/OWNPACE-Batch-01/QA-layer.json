@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "gates": [
+    "technical-output",
+    "exercise-identity",
+    "equipment-mechanics",
+    "pose-phase-accuracy",
+    "anatomy-and-muscle-map",
+    "continuity",
+    "branding"
+  ],
+  "rejection_is_blocking": true,
+  "rules": {
+    "technical-output": ["three PNGs", "512x512", "sRGB", "exact filenames"],
+    "exercise-identity": ["correct exercise", "correct equipment", "correct camera preset"],
+    "equipment-mechanics": ["contacts maintained", "fixed parts stable", "moving parts follow plausible paths"],
+    "pose-phase-accuracy": ["A/B/C match catalog", "phases distinct", "playback physically coherent"],
+    "anatomy-and-muscle-map": ["pose plausible", "orange primary only", "blue secondary only"],
+    "continuity": ["camera stable", "scale stable", "background stable", "identity stable"],
+    "branding": ["official SVG overlay", "112px width", "16px margins", "35 percent opacity"]
+  },
+  "batch01_review": {
+    "passed": ["cycling", "stationary-bike", "treadmill-walk", "brisk-walk", "light-jog", "march-in-place"],
+    "passed_with_caution": ["rowing-machine"],
+    "regenerated_and_passed": ["incline-treadmill-walk", "elliptical", "arm-circles"],
+    "rejected_remaining": []
+  }
+}

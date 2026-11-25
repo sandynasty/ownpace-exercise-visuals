@@ -1,0 +1,56 @@
+{
+  "id": "treadmill-walk",
+  "name_en": "Treadmill Walk",
+  "description_en": "Treadmill Walk — cardio movement targeting quadriceps, glutes.",
+  "category": "cardio",
+  "body_part": "legs",
+  "equipment": "treadmill",
+  "equipment_list": [
+    "treadmill"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Start the belt at a comfortable walking speed.",
+    "Walk with a natural stride and relaxed arms."
+  ],
+  "tips_en": [
+    "Use the safety clip and avoid stepping onto a moving belt."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/treadmill-walk-a.webp",
+      "b": "images/webp/treadmill-walk-b.webp",
+      "c": "images/webp/treadmill-walk-c.webp"
+    },
+    "original": {
+      "a": "images/original/treadmill-walk-a.png",
+      "b": "images/original/treadmill-walk-b.png",
+      "c": "images/original/treadmill-walk-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 1
+}

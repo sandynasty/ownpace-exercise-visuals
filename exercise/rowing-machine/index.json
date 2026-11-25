@@ -1,0 +1,59 @@
+{
+  "id": "rowing-machine",
+  "name_en": "Rowing Machine",
+  "description_en": "Rowing Machine — cardio movement targeting quadriceps, glutes, lats.",
+  "category": "cardio",
+  "body_part": "full-body",
+  "equipment": "rowing-machine",
+  "equipment_list": [
+    "rowing-machine"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes",
+    "lats"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "biceps",
+    "core"
+  ],
+  "difficulty": "intermediate",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Begin with bent knees and straight arms.",
+    "Drive with the legs, then open the torso and draw the handle in.",
+    "Return arms, torso, then knees."
+  ],
+  "tips_en": [
+    "Keep the spine controlled and the handle path smooth."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/rowing-machine-a.webp",
+      "b": "images/webp/rowing-machine-b.webp",
+      "c": "images/webp/rowing-machine-c.webp"
+    },
+    "original": {
+      "a": "images/original/rowing-machine-a.png",
+      "b": "images/original/rowing-machine-b.png",
+      "c": "images/original/rowing-machine-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Check handle/chain and seat travel."
+  },
+  "source_batch": 1
+}

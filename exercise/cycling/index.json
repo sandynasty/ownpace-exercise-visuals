@@ -1,0 +1,56 @@
+{
+  "id": "cycling",
+  "name_en": "Cycling",
+  "description_en": "Cycling — cardio movement targeting quadriceps, glutes.",
+  "category": "cardio",
+  "body_part": "legs",
+  "equipment": "bicycle",
+  "equipment_list": [
+    "bicycle"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Adjust the saddle and grip the handlebars comfortably.",
+    "Pedal continuously with a steady cadence."
+  ],
+  "tips_en": [
+    "Keep knees tracking naturally and avoid rocking the hips."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/cycling-a.webp",
+      "b": "images/webp/cycling-b.webp",
+      "c": "images/webp/cycling-c.webp"
+    },
+    "original": {
+      "a": "images/original/cycling-a.png",
+      "b": "images/original/cycling-b.png",
+      "c": "images/original/cycling-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Check pedal geometry and foot contact."
+  },
+  "source_batch": 1
+}

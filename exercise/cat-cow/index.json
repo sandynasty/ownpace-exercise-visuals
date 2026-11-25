@@ -1,0 +1,54 @@
+{
+  "id": "cat-cow",
+  "name_en": "Cat-Cow",
+  "description_en": "Cat-Cow — mobility movement targeting erector-spinae, core.",
+  "category": "mobility",
+  "body_part": "back",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "erector-spinae",
+    "core"
+  ],
+  "secondary_muscles": [],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Start on hands and knees.",
+    "Gently round the back, then reverse into a comfortable arch.",
+    "Repeat slowly."
+  ],
+  "tips_en": [
+    "Coordinate with breathing and avoid forcing either position."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/cat-cow-a.webp",
+      "b": "images/webp/cat-cow-b.webp",
+      "c": "images/webp/cat-cow-c.webp"
+    },
+    "original": {
+      "a": "images/original/cat-cow-a.png",
+      "b": "images/original/cat-cow-b.png",
+      "c": "images/original/cat-cow-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 7
+}

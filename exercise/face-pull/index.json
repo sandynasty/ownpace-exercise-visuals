@@ -1,0 +1,56 @@
+{
+  "id": "face-pull",
+  "name_en": "Face Pull",
+  "description_en": "Face Pull — strength movement targeting rear-deltoids, upper-back.",
+  "category": "strength",
+  "body_part": "shoulders",
+  "equipment": "cable-machine",
+  "equipment_list": [
+    "cable-machine"
+  ],
+  "primary_muscles": [
+    "rear-deltoids",
+    "upper-back"
+  ],
+  "secondary_muscles": [
+    "rotator-cuff",
+    "biceps"
+  ],
+  "difficulty": "intermediate",
+  "force_type": "pull",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Set a rope near face height and stand securely.",
+    "Pull the rope toward the face, separating the ends, then return."
+  ],
+  "tips_en": [
+    "Keep shoulders controlled and avoid leaning backward."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/face-pull-a.webp",
+      "b": "images/webp/face-pull-b.webp",
+      "c": "images/webp/face-pull-c.webp"
+    },
+    "original": {
+      "a": "images/original/face-pull-a.png",
+      "b": "images/original/face-pull-b.png",
+      "c": "images/original/face-pull-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 5
+}

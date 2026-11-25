@@ -1,0 +1,56 @@
+{
+  "id": "childs-pose",
+  "name_en": "Child's Pose",
+  "description_en": "Child's Pose — stretching movement targeting lats, erector-spinae.",
+  "category": "stretching",
+  "body_part": "back",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "lats",
+    "erector-spinae"
+  ],
+  "secondary_muscles": [
+    "glutes"
+  ],
+  "difficulty": "beginner",
+  "force_type": "static",
+  "mechanic": "compound",
+  "motion_type": "hold",
+  "instructions_en": [
+    "Start on hands and knees.",
+    "Sit hips back toward heels and extend arms forward.",
+    "Breathe comfortably, then return."
+  ],
+  "tips_en": [
+    "Adjust knee spacing and use support if needed."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/childs-pose-a.webp",
+      "b": "images/webp/childs-pose-b.webp",
+      "c": "images/webp/childs-pose-c.webp"
+    },
+    "original": {
+      "a": "images/original/childs-pose-a.png",
+      "b": "images/original/childs-pose-b.png",
+      "c": "images/original/childs-pose-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 7
+}

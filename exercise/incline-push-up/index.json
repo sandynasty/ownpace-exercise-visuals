@@ -1,0 +1,56 @@
+{
+  "id": "incline-push-up",
+  "name_en": "Incline Push-Up",
+  "description_en": "Incline Push-Up — strength movement targeting pectorals.",
+  "category": "strength",
+  "body_part": "chest",
+  "equipment": "bench",
+  "equipment_list": [
+    "bench"
+  ],
+  "primary_muscles": [
+    "pectorals"
+  ],
+  "secondary_muscles": [
+    "triceps",
+    "anterior-deltoids",
+    "core"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Place hands on a stable elevated surface and extend the legs.",
+    "Lower the chest toward the surface, then press away."
+  ],
+  "tips_en": [
+    "Maintain a straight line from head to heels."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/incline-push-up-a.webp",
+      "b": "images/webp/incline-push-up-b.webp",
+      "c": "images/webp/incline-push-up-c.webp"
+    },
+    "original": {
+      "a": "images/original/incline-push-up-a.png",
+      "b": "images/original/incline-push-up-b.png",
+      "c": "images/original/incline-push-up-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 4
+}

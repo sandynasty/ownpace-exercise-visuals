@@ -1,0 +1,57 @@
+{
+  "id": "reverse-lunge",
+  "name_en": "Reverse Lunge",
+  "description_en": "Reverse Lunge — strength movement targeting quadriceps, glutes.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "core"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Step one foot backward and bend both knees.",
+    "Push through the front foot to return to standing.",
+    "Alternate sides."
+  ],
+  "tips_en": [
+    "Keep the front foot planted and move with control."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/reverse-lunge-a.webp",
+      "b": "images/webp/reverse-lunge-b.webp",
+      "c": "images/webp/reverse-lunge-c.webp"
+    },
+    "original": {
+      "a": "images/original/reverse-lunge-a.png",
+      "b": "images/original/reverse-lunge-b.png",
+      "c": "images/original/reverse-lunge-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 2
+}

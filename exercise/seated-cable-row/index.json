@@ -1,0 +1,56 @@
+{
+  "id": "seated-cable-row",
+  "name_en": "Seated Cable Row",
+  "description_en": "Seated Cable Row — strength movement targeting lats, upper-back.",
+  "category": "strength",
+  "body_part": "back",
+  "equipment": "cable-machine",
+  "equipment_list": [
+    "cable-machine"
+  ],
+  "primary_muscles": [
+    "lats",
+    "upper-back"
+  ],
+  "secondary_muscles": [
+    "biceps",
+    "rear-deltoids"
+  ],
+  "difficulty": "beginner",
+  "force_type": "pull",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Sit with feet supported and grasp the handle.",
+    "Pull toward the torso and return with control."
+  ],
+  "tips_en": [
+    "Keep the spine steady and avoid rocking for momentum."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/seated-cable-row-a.webp",
+      "b": "images/webp/seated-cable-row-b.webp",
+      "c": "images/webp/seated-cable-row-c.webp"
+    },
+    "original": {
+      "a": "images/original/seated-cable-row-a.png",
+      "b": "images/original/seated-cable-row-b.png",
+      "c": "images/original/seated-cable-row-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 5
+}

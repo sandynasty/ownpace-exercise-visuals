@@ -1,0 +1,55 @@
+{
+  "id": "dumbbell-biceps-curl",
+  "name_en": "Dumbbell Biceps Curl",
+  "description_en": "Dumbbell Biceps Curl — strength movement targeting biceps.",
+  "category": "strength",
+  "body_part": "arms",
+  "equipment": "dumbbell",
+  "equipment_list": [
+    "dumbbell"
+  ],
+  "primary_muscles": [
+    "biceps"
+  ],
+  "secondary_muscles": [
+    "brachialis",
+    "forearms"
+  ],
+  "difficulty": "beginner",
+  "force_type": "pull",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Stand with dumbbells at the sides and palms facing forward.",
+    "Curl by bending the elbows and lower slowly."
+  ],
+  "tips_en": [
+    "Keep upper arms still and avoid swinging the torso."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/dumbbell-biceps-curl-a.webp",
+      "b": "images/webp/dumbbell-biceps-curl-b.webp",
+      "c": "images/webp/dumbbell-biceps-curl-c.webp"
+    },
+    "original": {
+      "a": "images/original/dumbbell-biceps-curl-a.png",
+      "b": "images/original/dumbbell-biceps-curl-b.png",
+      "c": "images/original/dumbbell-biceps-curl-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 6
+}

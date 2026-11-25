@@ -1,0 +1,56 @@
+{
+  "id": "stationary-bike",
+  "name_en": "Stationary Bike",
+  "description_en": "Stationary Bike — cardio movement targeting quadriceps, glutes.",
+  "category": "cardio",
+  "body_part": "legs",
+  "equipment": "stationary-bike",
+  "equipment_list": [
+    "stationary-bike"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Adjust seat height and sit securely.",
+    "Pedal smoothly against a manageable resistance."
+  ],
+  "tips_en": [
+    "Keep a slight bend in the knee at the bottom of the pedal stroke."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/stationary-bike-a.webp",
+      "b": "images/webp/stationary-bike-b.webp",
+      "c": "images/webp/stationary-bike-c.webp"
+    },
+    "original": {
+      "a": "images/original/stationary-bike-a.png",
+      "b": "images/original/stationary-bike-b.png",
+      "c": "images/original/stationary-bike-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Check pedal geometry and foot contact."
+  },
+  "source_batch": 1
+}

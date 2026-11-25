@@ -1,0 +1,55 @@
+{
+  "id": "reverse-fly-machine",
+  "name_en": "Reverse Fly Machine",
+  "description_en": "Reverse Fly Machine — strength movement targeting rear-deltoids.",
+  "category": "strength",
+  "body_part": "shoulders",
+  "equipment": "pec-deck-machine",
+  "equipment_list": [
+    "pec-deck-machine"
+  ],
+  "primary_muscles": [
+    "rear-deltoids"
+  ],
+  "secondary_muscles": [
+    "upper-back",
+    "rotator-cuff"
+  ],
+  "difficulty": "beginner",
+  "force_type": "pull",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Sit facing the machine with handles in front.",
+    "Move arms outward and back, then return slowly."
+  ],
+  "tips_en": [
+    "Keep elbows softly bent and avoid shrugging."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/reverse-fly-machine-a.webp",
+      "b": "images/webp/reverse-fly-machine-b.webp",
+      "c": "images/webp/reverse-fly-machine-c.webp"
+    },
+    "original": {
+      "a": "images/original/reverse-fly-machine-a.png",
+      "b": "images/original/reverse-fly-machine-b.png",
+      "c": "images/original/reverse-fly-machine-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 5
+}

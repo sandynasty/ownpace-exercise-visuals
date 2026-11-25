@@ -1,0 +1,2 @@
+PASS: 65 exercises, 195 original PNGs, 195 WebPs; schema, paths, exports and original hashes verified.
+Biomechanics and rights are NOT certified by this script.

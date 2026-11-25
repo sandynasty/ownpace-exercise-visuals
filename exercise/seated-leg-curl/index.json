@@ -1,0 +1,54 @@
+{
+  "id": "seated-leg-curl",
+  "name_en": "Seated Leg Curl",
+  "description_en": "Seated Leg Curl — strength movement targeting hamstrings.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "leg-curl-machine",
+  "equipment_list": [
+    "leg-curl-machine"
+  ],
+  "primary_muscles": [
+    "hamstrings"
+  ],
+  "secondary_muscles": [
+    "calves"
+  ],
+  "difficulty": "beginner",
+  "force_type": "pull",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Adjust the thigh restraint and align knees with the pivot.",
+    "Curl the lower legs down and back, then return slowly."
+  ],
+  "tips_en": [
+    "Keep thighs secured and avoid lifting the hips."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/seated-leg-curl-a.webp",
+      "b": "images/webp/seated-leg-curl-b.webp",
+      "c": "images/webp/seated-leg-curl-c.webp"
+    },
+    "original": {
+      "a": "images/original/seated-leg-curl-a.png",
+      "b": "images/original/seated-leg-curl-b.png",
+      "c": "images/original/seated-leg-curl-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 3
+}

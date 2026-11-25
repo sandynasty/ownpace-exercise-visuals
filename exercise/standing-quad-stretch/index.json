@@ -1,0 +1,53 @@
+{
+  "id": "standing-quad-stretch",
+  "name_en": "Standing Quad Stretch",
+  "description_en": "Standing Quad Stretch — stretching movement targeting quadriceps.",
+  "category": "stretching",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "quadriceps"
+  ],
+  "secondary_muscles": [],
+  "difficulty": "beginner",
+  "force_type": "static",
+  "mechanic": "isolation",
+  "motion_type": "hold",
+  "instructions_en": [
+    "Stand beside a stable support and bend one knee.",
+    "Hold the ankle and gently draw the heel toward the glutes.",
+    "Switch sides."
+  ],
+  "tips_en": [
+    "Keep knees comfortably aligned and avoid pulling forcefully."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/standing-quad-stretch-a.webp",
+      "b": "images/webp/standing-quad-stretch-b.webp",
+      "c": "images/webp/standing-quad-stretch-c.webp"
+    },
+    "original": {
+      "a": "images/original/standing-quad-stretch-a.png",
+      "b": "images/original/standing-quad-stretch-b.png",
+      "c": "images/original/standing-quad-stretch-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 7
+}

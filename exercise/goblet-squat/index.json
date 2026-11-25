@@ -1,0 +1,56 @@
+{
+  "id": "goblet-squat",
+  "name_en": "Goblet Squat",
+  "description_en": "Goblet Squat — strength movement targeting quadriceps, glutes.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "dumbbell",
+  "equipment_list": [
+    "dumbbell"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "core"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Hold a weight close to the chest.",
+    "Squat to a comfortable depth and stand by extending hips and knees."
+  ],
+  "tips_en": [
+    "Keep the load close and avoid collapsing the knees inward."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/goblet-squat-a.webp",
+      "b": "images/webp/goblet-squat-b.webp",
+      "c": "images/webp/goblet-squat-c.webp"
+    },
+    "original": {
+      "a": "images/original/goblet-squat-a.png",
+      "b": "images/original/goblet-squat-b.png",
+      "c": "images/original/goblet-squat-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 2
+}

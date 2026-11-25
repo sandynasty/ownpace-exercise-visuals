@@ -1,0 +1,56 @@
+{
+  "id": "hammer-curl",
+  "name_en": "Hammer Curl",
+  "description_en": "Hammer Curl — strength movement targeting brachialis, biceps.",
+  "category": "strength",
+  "body_part": "arms",
+  "equipment": "dumbbell",
+  "equipment_list": [
+    "dumbbell"
+  ],
+  "primary_muscles": [
+    "brachialis",
+    "biceps"
+  ],
+  "secondary_muscles": [
+    "brachioradialis",
+    "forearms"
+  ],
+  "difficulty": "beginner",
+  "force_type": "pull",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Hold dumbbells with palms facing inward.",
+    "Bend elbows to raise the weights, then lower slowly."
+  ],
+  "tips_en": [
+    "Keep a neutral wrist and avoid using momentum."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/hammer-curl-a.webp",
+      "b": "images/webp/hammer-curl-b.webp",
+      "c": "images/webp/hammer-curl-c.webp"
+    },
+    "original": {
+      "a": "images/original/hammer-curl-a.png",
+      "b": "images/original/hammer-curl-b.png",
+      "c": "images/original/hammer-curl-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 6
+}

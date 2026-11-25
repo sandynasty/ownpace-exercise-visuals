@@ -1,0 +1,58 @@
+{
+  "id": "step-up",
+  "name_en": "Step-Up",
+  "description_en": "Step-Up — strength movement targeting quadriceps, glutes.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "step-platform",
+  "equipment_list": [
+    "step-platform"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "calves",
+    "core"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Place one foot fully on a stable step.",
+    "Drive through that foot to step up, then lower under control.",
+    "Switch sides."
+  ],
+  "tips_en": [
+    "Avoid pushing excessively from the trailing foot."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/step-up-a.webp",
+      "b": "images/webp/step-up-b.webp",
+      "c": "images/webp/step-up-c.webp"
+    },
+    "original": {
+      "a": "images/original/step-up-a.png",
+      "b": "images/original/step-up-b.png",
+      "c": "images/original/step-up-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 2
+}

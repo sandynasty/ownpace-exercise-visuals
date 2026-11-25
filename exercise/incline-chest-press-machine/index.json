@@ -1,0 +1,55 @@
+{
+  "id": "incline-chest-press-machine",
+  "name_en": "Incline Chest Press Machine",
+  "description_en": "Incline Chest Press Machine — strength movement targeting upper-pectorals.",
+  "category": "strength",
+  "body_part": "chest",
+  "equipment": "chest-press-machine",
+  "equipment_list": [
+    "chest-press-machine"
+  ],
+  "primary_muscles": [
+    "upper-pectorals"
+  ],
+  "secondary_muscles": [
+    "anterior-deltoids",
+    "triceps"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Adjust the seat and set handles at upper-chest level.",
+    "Press along the machine path, then return slowly."
+  ],
+  "tips_en": [
+    "Maintain back support and avoid shrugging."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/incline-chest-press-machine-a.webp",
+      "b": "images/webp/incline-chest-press-machine-b.webp",
+      "c": "images/webp/incline-chest-press-machine-c.webp"
+    },
+    "original": {
+      "a": "images/original/incline-chest-press-machine-a.png",
+      "b": "images/original/incline-chest-press-machine-b.png",
+      "c": "images/original/incline-chest-press-machine-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 4
+}

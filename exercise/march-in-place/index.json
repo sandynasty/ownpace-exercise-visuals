@@ -1,0 +1,57 @@
+{
+  "id": "march-in-place",
+  "name_en": "March in Place",
+  "description_en": "March in Place — cardio movement targeting hip-flexors, quadriceps.",
+  "category": "cardio",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "hip-flexors",
+    "quadriceps"
+  ],
+  "secondary_muscles": [
+    "glutes",
+    "calves",
+    "core"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Stand upright and raise one knee at a time.",
+    "Alternate legs while swinging the arms naturally."
+  ],
+  "tips_en": [
+    "Maintain balance and keep the steps controlled."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/march-in-place-a.webp",
+      "b": "images/webp/march-in-place-b.webp",
+      "c": "images/webp/march-in-place-c.webp"
+    },
+    "original": {
+      "a": "images/original/march-in-place-a.png",
+      "b": "images/original/march-in-place-b.png",
+      "c": "images/original/march-in-place-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 1
+}

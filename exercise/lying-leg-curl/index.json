@@ -1,0 +1,54 @@
+{
+  "id": "lying-leg-curl",
+  "name_en": "Lying Leg Curl",
+  "description_en": "Lying Leg Curl — strength movement targeting hamstrings.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "leg-curl-machine",
+  "equipment_list": [
+    "leg-curl-machine"
+  ],
+  "primary_muscles": [
+    "hamstrings"
+  ],
+  "secondary_muscles": [
+    "calves"
+  ],
+  "difficulty": "beginner",
+  "force_type": "pull",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Lie on the machine with knees aligned to the pivot and pad above the heels.",
+    "Bend knees to curl the pad, then lower slowly."
+  ],
+  "tips_en": [
+    "Keep hips against the bench without arching the back."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/lying-leg-curl-a.webp",
+      "b": "images/webp/lying-leg-curl-b.webp",
+      "c": "images/webp/lying-leg-curl-c.webp"
+    },
+    "original": {
+      "a": "images/original/lying-leg-curl-a.png",
+      "b": "images/original/lying-leg-curl-b.png",
+      "c": "images/original/lying-leg-curl-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 3
+}

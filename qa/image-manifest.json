@@ -1,0 +1,1887 @@
+{
+  "brisk-walk": {
+    "a": {
+      "png": "images/original/brisk-walk-a.png",
+      "webp": "images/webp/brisk-walk-a.webp",
+      "sha256": "52a762b496db148bfff1c12ae35bb64b668514a503c035b373109f2ec2b17d31",
+      "pixel_sha256": "35968c3e3083367b441b98cc14a755d4a78de871346a755319e501c058b9dbd0",
+      "source": "OWNPACE-Batch-01/brisk-walk-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/brisk-walk-b.png",
+      "webp": "images/webp/brisk-walk-b.webp",
+      "sha256": "06c4f5099d1b9df6f4b553138514773769a73a79cfa035b27b9100b2a59ca9dd",
+      "pixel_sha256": "d7cff56182bd1ad0fb7971eb00536e4adabde2282ff5ee9c70c136e770abeac2",
+      "source": "OWNPACE-Batch-01/brisk-walk-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/brisk-walk-c.png",
+      "webp": "images/webp/brisk-walk-c.webp",
+      "sha256": "86e4c0ed18aab444a9877241262cb5f7416b58e574765300df884d048845fa69",
+      "pixel_sha256": "344bee73faca6f04fc561f7847f716e0e1abdf3b514a3ec0d8fdcbb0c0d84109",
+      "source": "OWNPACE-Batch-01/brisk-walk-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "treadmill-walk": {
+    "c": {
+      "png": "images/original/treadmill-walk-c.png",
+      "webp": "images/webp/treadmill-walk-c.webp",
+      "sha256": "d9159c220fdb378f0952a2c45b066edc829719ccc1393c32d926c28b973268eb",
+      "pixel_sha256": "1ca029a3aa724b2a015616d22c55950aa5bfcf8e5e32bafd0d839c7d03ebe29c",
+      "source": "OWNPACE-Batch-01/treadmill-walk-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/treadmill-walk-b.png",
+      "webp": "images/webp/treadmill-walk-b.webp",
+      "sha256": "aa999b76a6d1c61f1d708a2f64934d0e987ec1dea1c951d413f9600025a54633",
+      "pixel_sha256": "322750aa5d5688c5aeba0575274ab5d5bf0ea3208f4bbcec586e9256ae5097af",
+      "source": "OWNPACE-Batch-01/treadmill-walk-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/treadmill-walk-a.png",
+      "webp": "images/webp/treadmill-walk-a.webp",
+      "sha256": "733445a59e5d8e91b25f61499315d0c7005cf382f57655bbd3cf43fcba48dbb0",
+      "pixel_sha256": "154ee3cb9882fa148b765cf72f7f91184cc33765dc41b6a186950081f54e68a0",
+      "source": "OWNPACE-Batch-01/treadmill-walk-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "elliptical": {
+    "a": {
+      "png": "images/original/elliptical-a.png",
+      "webp": "images/webp/elliptical-a.webp",
+      "sha256": "00843371fad45c494d1a4da6d2c4505a26b596d4166ccc19ddda51ff0138d114",
+      "pixel_sha256": "76f88fdefd03026ebca442c13b85f1c16a93cf2e3fdf475095830becb4fe0082",
+      "source": "OWNPACE-Batch-01/elliptical-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/elliptical-b.png",
+      "webp": "images/webp/elliptical-b.webp",
+      "sha256": "97084f9c0e75d974a04e9aa06450dc2fb0e7befc86dd08a08dd6991d4a1e333c",
+      "pixel_sha256": "369174127526e461948281318e4cc63f8e66737f65c7e26086e8563c6ce80c5c",
+      "source": "OWNPACE-Batch-01/elliptical-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/elliptical-c.png",
+      "webp": "images/webp/elliptical-c.webp",
+      "sha256": "5d4e44906c9928cde172d6259eb728cd85a6863cfd6fcccb6e325fb37959dbdd",
+      "pixel_sha256": "6911017324b5db1488fc983aaea48dd1e818797aa3c2478de3650c3c25591cd4",
+      "source": "OWNPACE-Batch-01/elliptical-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "march-in-place": {
+    "a": {
+      "png": "images/original/march-in-place-a.png",
+      "webp": "images/webp/march-in-place-a.webp",
+      "sha256": "1c1ec12b2051406d4daa8ae52796309a2b611b1c8d5e98723c168d0139515e95",
+      "pixel_sha256": "eb510e8adeee15312298b445d12f061a2f1799488754bf4c117fbae7a4eafeb4",
+      "source": "OWNPACE-Batch-01/march-in-place-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/march-in-place-b.png",
+      "webp": "images/webp/march-in-place-b.webp",
+      "sha256": "1b42ede24433cbb5af2dce59e197e0dd42d48848f600a9e3c5fa118747ff8286",
+      "pixel_sha256": "fd460da4d6312da00ac85419cea49065832a98b8942ece45e33a508b215933ea",
+      "source": "OWNPACE-Batch-01/march-in-place-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/march-in-place-c.png",
+      "webp": "images/webp/march-in-place-c.webp",
+      "sha256": "8198ab0077135acd7ea3b2b22c0d715574a85ae9017a439c0e8b2988962ba2e4",
+      "pixel_sha256": "5ff6aca12cc8f2501f96cb5a4a1df369c0f4946f562ed15bdaa1aae723d2f394",
+      "source": "OWNPACE-Batch-01/march-in-place-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "cycling": {
+    "a": {
+      "png": "images/original/cycling-a.png",
+      "webp": "images/webp/cycling-a.webp",
+      "sha256": "fe40bace322014db471db9a7bcd62f811b39ff425a29184a4894b1aa19a50282",
+      "pixel_sha256": "596f8f33f14f4af7854389b3c2e83678374a8aa9a24eef9ef7d77e5fca9f7588",
+      "source": "OWNPACE-Batch-01/cycling-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/cycling-b.png",
+      "webp": "images/webp/cycling-b.webp",
+      "sha256": "5d1c393ec314f34485233f17bd513aa8ce1f7e1c494adc506fd2bd325d39c2e6",
+      "pixel_sha256": "4dc0c570e4576324fa7d0e8413c856063bcdb7c4b50d618c93cfe7ed92ea6121",
+      "source": "OWNPACE-Batch-01/cycling-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/cycling-c.png",
+      "webp": "images/webp/cycling-c.webp",
+      "sha256": "466eca2b12b54ff38ffa0d1e6dc02c3881dc0500d1b3d18691ab2b36f6218a90",
+      "pixel_sha256": "3d5439bd99b1919db3544d3fd1dd7f7bc81504017f36713585bb1b56c95f4f3e",
+      "source": "OWNPACE-Batch-01/cycling-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "incline-treadmill-walk": {
+    "a": {
+      "png": "images/original/incline-treadmill-walk-a.png",
+      "webp": "images/webp/incline-treadmill-walk-a.webp",
+      "sha256": "1cd44c3beaa46ca7823693a463c009b8bf7df1a1e69f69caf02368f49a67c2ff",
+      "pixel_sha256": "74f81d9c36b7817a00ddbddba0c952646cb50681d9ea0cb96b4bc2459d49b18c",
+      "source": "OWNPACE-Batch-01/incline-treadmill-walk-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/incline-treadmill-walk-b.png",
+      "webp": "images/webp/incline-treadmill-walk-b.webp",
+      "sha256": "b2913cf6560a0018f77a6750430417be3b8275bb4b36cb132c92128a2de9c74d",
+      "pixel_sha256": "e1e532165538daa5a5977f4b60d495e41005dc46f860f44ba4548f4de0b7fae3",
+      "source": "OWNPACE-Batch-01/incline-treadmill-walk-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/incline-treadmill-walk-c.png",
+      "webp": "images/webp/incline-treadmill-walk-c.webp",
+      "sha256": "6440b719f870a88076dbcc6188bb2f9990ce52a3d04695b6602a890c843c1103",
+      "pixel_sha256": "1d10b8004eaddeffc37c22ab20779cff92ee1c1f9f32406c6844f10de491e686",
+      "source": "OWNPACE-Batch-01/incline-treadmill-walk-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "arm-circles": {
+    "a": {
+      "png": "images/original/arm-circles-a.png",
+      "webp": "images/webp/arm-circles-a.webp",
+      "sha256": "44aeed91b8c30c038049c23957250884209d346ccf579decfd87c3afd8e0c2b6",
+      "pixel_sha256": "1bb4fbc232d93acefbf8a7ddb260c452831fde8dad4d8ad621284a2e63bc8501",
+      "source": "OWNPACE-Batch-01/arm-circles-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/arm-circles-b.png",
+      "webp": "images/webp/arm-circles-b.webp",
+      "sha256": "64ae7e2575eda68d94d125840e385d50f6ded4495fb993e101dbbbc1fe024809",
+      "pixel_sha256": "c9ce9d3b7875d1a2c004a9cb0b9a5fa83408ec171c3510358ac3c87bcef25aa6",
+      "source": "OWNPACE-Batch-01/arm-circles-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/arm-circles-c.png",
+      "webp": "images/webp/arm-circles-c.webp",
+      "sha256": "8f9b98cd9133545c4880029e7fb40ebe3a563b9cd8ecbdab50fd42156112227e",
+      "pixel_sha256": "d0d7c7356aa9fa2c5969baa839a3f23570fd2a8f439f741c2f3d97c5731da527",
+      "source": "OWNPACE-Batch-01/arm-circles-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "rowing-machine": {
+    "b": {
+      "png": "images/original/rowing-machine-b.png",
+      "webp": "images/webp/rowing-machine-b.webp",
+      "sha256": "a179ceff63f8030cd785d7435268a76ac7b0c7394e762fff37e04f61f3d82cb2",
+      "pixel_sha256": "9e51290b0439f42ac92b1eb41aeaa3471df9ea0b9aefbdd2bab597eb82830c98",
+      "source": "OWNPACE-Batch-01/rowing-machine-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/rowing-machine-c.png",
+      "webp": "images/webp/rowing-machine-c.webp",
+      "sha256": "36482b19327810f557614dbca63eaeca7479f41b323c92b63a97056d457cbb2b",
+      "pixel_sha256": "f4b42148ff10aeda3deffd9ae96bcefa9d8bb86a0723734308d5f34604d094df",
+      "source": "OWNPACE-Batch-01/rowing-machine-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/rowing-machine-a.png",
+      "webp": "images/webp/rowing-machine-a.webp",
+      "sha256": "652e88ab935e0ee521fad6094198d7578d4992a856fc42860e7958731b46c4eb",
+      "pixel_sha256": "b1a5fd45d9b9997df138e579f63b7782d9b778466cb701543c35c849b4f58e8b",
+      "source": "OWNPACE-Batch-01/rowing-machine-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "light-jog": {
+    "b": {
+      "png": "images/original/light-jog-b.png",
+      "webp": "images/webp/light-jog-b.webp",
+      "sha256": "34f82ccd2e1e2ac92a7b350260e398f92626a7dec85e0b2d9ccd44684cf0bb8f",
+      "pixel_sha256": "b0e07c0f786f6a4399a808b64f14a25109013d9691726bb6c011b15540c73b0b",
+      "source": "OWNPACE-Batch-01/light-jog-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/light-jog-c.png",
+      "webp": "images/webp/light-jog-c.webp",
+      "sha256": "896e8d5ac5ae3b0e2e4843f6f11fdc11f4f1450dae217b3338a07c1a98671ab0",
+      "pixel_sha256": "fd144297aa0fba2806393408afcf0e84328d68c44fa2fed5bf9dd1db24a87ab8",
+      "source": "OWNPACE-Batch-01/light-jog-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/light-jog-a.png",
+      "webp": "images/webp/light-jog-a.webp",
+      "sha256": "d504bff3aa61a1f77a0f25b4d7fff4c7122e8320be5076163618351de50103dd",
+      "pixel_sha256": "53d959f6177fbaed71e346cb3f0f8a81abeeb4922903d9c93181282ad54c27e6",
+      "source": "OWNPACE-Batch-01/light-jog-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "stationary-bike": {
+    "b": {
+      "png": "images/original/stationary-bike-b.png",
+      "webp": "images/webp/stationary-bike-b.webp",
+      "sha256": "2773ad103c99fa2b5a15b4131c8e42c6d08e76d2ee500e2b511273988eb6b23f",
+      "pixel_sha256": "d28e3fe3823c73265c75e2a9943d613a2198bb086a91d67de7819edb8ad3ba87",
+      "source": "OWNPACE-Batch-01/stationary-bike-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/stationary-bike-c.png",
+      "webp": "images/webp/stationary-bike-c.webp",
+      "sha256": "c4f133169c387c4f1b577d7031a6c7890335f35156a70c377897e52d1a37d02d",
+      "pixel_sha256": "65b04c906802c488c05cb6ac059d71dfa24c8be28d656a0078340881887ac437",
+      "source": "OWNPACE-Batch-01/stationary-bike-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/stationary-bike-a.png",
+      "webp": "images/webp/stationary-bike-a.webp",
+      "sha256": "ec7f4627e4386ce9d1f070c741659fa982d92855ff79bb5ac177dfa54484a032",
+      "pixel_sha256": "8b553308b7f26e4d2fa5aa16285e2606400372804f20347c06015164e6647514",
+      "source": "OWNPACE-Batch-01/stationary-bike-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "glute-bridge": {
+    "a": {
+      "png": "images/original/glute-bridge-a.png",
+      "webp": "images/webp/glute-bridge-a.webp",
+      "sha256": "dd55a14a1a1a228bad1d1af56c22d3eda803a20db65b6faaa8b97f6564634f27",
+      "pixel_sha256": "0d7e95af8ad9e2a829eda8a74fa2caae49cde8921a907954de190b3a73075bae",
+      "source": "ownpace-batch-02/glute-bridge-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/glute-bridge-c.png",
+      "webp": "images/webp/glute-bridge-c.webp",
+      "sha256": "5fc52f95a1a34acd87e7b4a6559542714b7d6b8d74ef13f4499b25b0c1910386",
+      "pixel_sha256": "58a9e42a85f6ee184353d43014811ca72e0b0dbcfa88bc54859f15d67d66f871",
+      "source": "ownpace-batch-02/glute-bridge-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/glute-bridge-b.png",
+      "webp": "images/webp/glute-bridge-b.webp",
+      "sha256": "24eaef9ea4e20c288a89a042f6c583d7ec74434efed6ab28d473326edcf0a702",
+      "pixel_sha256": "42c5f566753fa1525780eba44f9da433b38cc87fb384544ec8e512375e43a9ed",
+      "source": "ownpace-batch-02/glute-bridge-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "standing-calf-raise": {
+    "a": {
+      "png": "images/original/standing-calf-raise-a.png",
+      "webp": "images/webp/standing-calf-raise-a.webp",
+      "sha256": "49f96625135c787701bb39246cfd698dd4041c1f0d627eefb14a39d281e8f5ef",
+      "pixel_sha256": "7ee8464adc450e25076011fac8f191fa5aab93afa779a2438aff899961a3ffb0",
+      "source": "ownpace-batch-02/standing-calf-raise-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/standing-calf-raise-b.png",
+      "webp": "images/webp/standing-calf-raise-b.webp",
+      "sha256": "70be8771a0a9eed7a4933aeab3190d8ecea753a0de11d092a5eed2d852b66bed",
+      "pixel_sha256": "f1f2b861fe77f97f9eed92ab53bc1e1dead8386341fd3e9195755321fbc9831b",
+      "source": "ownpace-batch-02/standing-calf-raise-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/standing-calf-raise-c.png",
+      "webp": "images/webp/standing-calf-raise-c.webp",
+      "sha256": "6ec1dc4df51ba268dd519eefc89bc1928609db0c87fc2cb1bf1df6835f2efef4",
+      "pixel_sha256": "d3c31f74e262fbf27c2beae36c6f08f66af4a2d59dcd53039361ebefd30b2282",
+      "source": "ownpace-batch-02/standing-calf-raise-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "seated-calf-raise": {
+    "a": {
+      "png": "images/original/seated-calf-raise-a.png",
+      "webp": "images/webp/seated-calf-raise-a.webp",
+      "sha256": "6702290eb4963ffc4c6309b10a6b19f962fd9d80b803db5b7c79abe17d4c84a1",
+      "pixel_sha256": "e944edf409b16df6d1e45fa9773f571178e663247880556068f930efbe1f6558",
+      "source": "ownpace-batch-02/seated-calf-raise-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/seated-calf-raise-b.png",
+      "webp": "images/webp/seated-calf-raise-b.webp",
+      "sha256": "045c5cf6eb5f1734b5cb88f3c939402da679288f4762984ae1a5c90adf684558",
+      "pixel_sha256": "ef65afeb3becba2e7469f4f1fe2457ceb642603aa9d39851a865c6b598c04253",
+      "source": "ownpace-batch-02/seated-calf-raise-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/seated-calf-raise-c.png",
+      "webp": "images/webp/seated-calf-raise-c.webp",
+      "sha256": "9ec149ea3b0d57fef0a37e28ebbc915f544890cc86d7ececacda295f68a0c3f6",
+      "pixel_sha256": "d44af3903b5acaafc5729cdac3832acf8cf49350f110f92671e5082da3b995f8",
+      "source": "ownpace-batch-02/seated-calf-raise-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "split-squat": {
+    "b": {
+      "png": "images/original/split-squat-b.png",
+      "webp": "images/webp/split-squat-b.webp",
+      "sha256": "63e0edc8c135f5d2b8a76c491cffcd9f700719ab281d85f763dd4754d7e892e7",
+      "pixel_sha256": "6b7443f5922df11b2e42d6391d4b584d3dae54f5f871981cbeb2396d79a306b0",
+      "source": "ownpace-batch-02/split-squat-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/split-squat-c.png",
+      "webp": "images/webp/split-squat-c.webp",
+      "sha256": "8258b2ed15bc8357f6d7e36d91da48db3be2ffc3013fa6f3ceff38795712c904",
+      "pixel_sha256": "bfc917f21bac663f6a28768a711ad71f817cb06e290fda27b3c5cea465c68fe5",
+      "source": "ownpace-batch-02/split-squat-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/split-squat-a.png",
+      "webp": "images/webp/split-squat-a.webp",
+      "sha256": "12349559189325e342d7dffcc218cea11062532df878bafc8f413fca82ca8eb0",
+      "pixel_sha256": "0f84058c44153861aa57f1533e0861a2d8b9d4ddfb34387050aaae11960a8571",
+      "source": "ownpace-batch-02/split-squat-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "bodyweight-squat": {
+    "a": {
+      "png": "images/original/bodyweight-squat-a.png",
+      "webp": "images/webp/bodyweight-squat-a.webp",
+      "sha256": "a973b680d11a0d857d2f827e28adf76358d43aafa039e01c7d9254e3f6c446cb",
+      "pixel_sha256": "6c0eb572dd5f96f96a6c22fe1de5c3df6ebb74e50e021cba13ad1efce53837f2",
+      "source": "ownpace-batch-02/bodyweight-squat-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/bodyweight-squat-b.png",
+      "webp": "images/webp/bodyweight-squat-b.webp",
+      "sha256": "6d02d666c21da69e95ea4937d77cf0f4e9209cddf79792970f10913674e54dbe",
+      "pixel_sha256": "8b98d47c9ae2334da05186abda57ba9fff66aaf8fa4537ecbc90a55c96206d1c",
+      "source": "ownpace-batch-02/bodyweight-squat-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/bodyweight-squat-c.png",
+      "webp": "images/webp/bodyweight-squat-c.webp",
+      "sha256": "aa48ab4a3dadf6739b8e805678d30274acbf5f272d1592c9b97e592c2d24c08f",
+      "pixel_sha256": "18e9fe45c7452f781e12f981374afdf1982260644908b39279f33079e5de5f45",
+      "source": "ownpace-batch-02/bodyweight-squat-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "hip-thrust": {
+    "a": {
+      "png": "images/original/hip-thrust-a.png",
+      "webp": "images/webp/hip-thrust-a.webp",
+      "sha256": "ed21b9f5e5e11cbbaf983c473d45152e97619566bd8e42576356d2d6997a3323",
+      "pixel_sha256": "7c24408211083b94d7d923728405c89c3e5b198c5ffdbfa52d606b05ec535aaf",
+      "source": "ownpace-batch-02/hip-thrust-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/hip-thrust-b.png",
+      "webp": "images/webp/hip-thrust-b.webp",
+      "sha256": "0a5ee254be6d41f632464af477de8e3042f276a30e193c67d493c7c134521c99",
+      "pixel_sha256": "960949f95902713951290b85fc476379ce10ee2e1fde4a8b6c6b117181d49b70",
+      "source": "ownpace-batch-02/hip-thrust-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/hip-thrust-c.png",
+      "webp": "images/webp/hip-thrust-c.webp",
+      "sha256": "0e659d629835703fdc814b7971e0415b90d41a9e16f70b73f8f43955269b0c4a",
+      "pixel_sha256": "86fb9d9676e6a593077c9cbbfcc8a29af28d8fcbccaa882253edd4e492da8c22",
+      "source": "ownpace-batch-02/hip-thrust-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "reverse-lunge": {
+    "a": {
+      "png": "images/original/reverse-lunge-a.png",
+      "webp": "images/webp/reverse-lunge-a.webp",
+      "sha256": "667c3fa4f79de16764dda1551636fd13348cac925407d5762257a84ae0ab1089",
+      "pixel_sha256": "32397fc6eb8e214ce5d92dd77b39c3bd6420ffee0ae485c3f283afc225443757",
+      "source": "ownpace-batch-02/reverse-lunge-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/reverse-lunge-c.png",
+      "webp": "images/webp/reverse-lunge-c.webp",
+      "sha256": "9489e7521d9e213c37362f95e4595ea43d1b4f0cd524e11e602eeafc3189d3f4",
+      "pixel_sha256": "aecd0af8869b6d5a474c66282b787299b97c7cb5441e26e98f4f35d5b299c38b",
+      "source": "ownpace-batch-02/reverse-lunge-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/reverse-lunge-b.png",
+      "webp": "images/webp/reverse-lunge-b.webp",
+      "sha256": "9aa321ae1661e4ebf33b79fc7dcffcfe8d1337de04110ffbdd973214d6b24f82",
+      "pixel_sha256": "306a0105295cff2596d9189fce3df00e5a1b8a6d7362e8f76d579a5406c1438d",
+      "source": "ownpace-batch-02/reverse-lunge-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "walking-lunge": {
+    "a": {
+      "png": "images/original/walking-lunge-a.png",
+      "webp": "images/webp/walking-lunge-a.webp",
+      "sha256": "81eba8edbe66f8da45f2592fb4e307f06b38f2a745fc880ea68825fbd5c5b2e5",
+      "pixel_sha256": "440c53d6e4c37a5fbbc119ba00c51e9e20cfbf8e70f4f9bad5e3b37461aef39b",
+      "source": "ownpace-batch-02/walking-lunge-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/walking-lunge-c.png",
+      "webp": "images/webp/walking-lunge-c.webp",
+      "sha256": "c6ba22da4299689c9192c0f534054c562eb9beb3bbe3eb30339f8ef15e4c13c6",
+      "pixel_sha256": "3cefc3ff41b6c632f3c81e956e3d5d5067e798f331f1f610273a4c5b6a0d3f92",
+      "source": "ownpace-batch-02/walking-lunge-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/walking-lunge-b.png",
+      "webp": "images/webp/walking-lunge-b.webp",
+      "sha256": "295837c5e5006dc9bf41cc99564c6182c6f0d681412bb09d9d27751e72615a25",
+      "pixel_sha256": "71f2fdb92c9b005fb71306ac8859d35062ab869b5d734eb68fea15cbc98bc9f5",
+      "source": "ownpace-batch-02/walking-lunge-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "step-up": {
+    "a": {
+      "png": "images/original/step-up-a.png",
+      "webp": "images/webp/step-up-a.webp",
+      "sha256": "12441385c76801a159add85cf0718e6afc8147c1e77c17bd89d7b059ca4affde",
+      "pixel_sha256": "07c19040f475bc1d0791fefd47b186b3f4c650217c38818d571ae72169941f0b",
+      "source": "ownpace-batch-02/step-up-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/step-up-b.png",
+      "webp": "images/webp/step-up-b.webp",
+      "sha256": "9e1fb49e600702bba893d0ee9a5af5d92435e4a6c31108d100f55c04c5633db7",
+      "pixel_sha256": "7b0aa2586c7700830c9b33987567cae934736077704fae2ef1dcd9d9e9680867",
+      "source": "ownpace-batch-02/step-up-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/step-up-c.png",
+      "webp": "images/webp/step-up-c.webp",
+      "sha256": "2eb837b3abe1cc9d4976a483f909061bf0236bb28288157a32e58740a600cdd0",
+      "pixel_sha256": "2938fa2684ac918dada0d96d193433513d860b4b26c78ef9c1d2d7efac04287d",
+      "source": "ownpace-batch-02/step-up-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "goblet-squat": {
+    "b": {
+      "png": "images/original/goblet-squat-b.png",
+      "webp": "images/webp/goblet-squat-b.webp",
+      "sha256": "aa0c4d516caa091ae3a005b9c7c58e05ca84dfcf4150e74dd274ea66aeab02a0",
+      "pixel_sha256": "a97d27b2c66b19ea123ea081159755b958dac13775c9eaccd607eff4b615b2eb",
+      "source": "ownpace-batch-02/goblet-squat-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/goblet-squat-c.png",
+      "webp": "images/webp/goblet-squat-c.webp",
+      "sha256": "47dc867b7a1161cafaba60966c5ea503adce75ae0d1fbd61aa0663769d6aad99",
+      "pixel_sha256": "ea50d0e69a5ae4dda29b40b50680d6afa257f0ec5e31d38e0dfaf8300b00f0c7",
+      "source": "ownpace-batch-02/goblet-squat-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/goblet-squat-a.png",
+      "webp": "images/webp/goblet-squat-a.webp",
+      "sha256": "0007601947322926e1fdf0c0f29c3656eac01cd89094e8b5e1fd4c6298763fc3",
+      "pixel_sha256": "f4066961dea5260ec0ee9da81998911e11ae62fd6632551a44bf7154ba45f5b5",
+      "source": "ownpace-batch-02/goblet-squat-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "hip-adduction-machine": {
+    "a": {
+      "png": "images/original/hip-adduction-machine-a.png",
+      "webp": "images/webp/hip-adduction-machine-a.webp",
+      "sha256": "7dd5709effcb45f63cee2469ee5fcfcdc89a54fc63435ac51b399b75547018ff",
+      "pixel_sha256": "7cbe377a1bfbdb460e2c6f30cc4bf4d51272886c4bed0cd029e052a6a499f6f2",
+      "source": "OWNPACE-Batch-03/images/hip-adduction-machine-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/hip-adduction-machine-b.png",
+      "webp": "images/webp/hip-adduction-machine-b.webp",
+      "sha256": "4e1ed8999c06787d239a81ae3642690afad655ffd9ced3036a5680f700530c0b",
+      "pixel_sha256": "83db8580132558638abb08fad856aaf1b8c6f5613a6d8fe468c6d4c7ab16c1a7",
+      "source": "OWNPACE-Batch-03/images/hip-adduction-machine-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/hip-adduction-machine-c.png",
+      "webp": "images/webp/hip-adduction-machine-c.webp",
+      "sha256": "663025ee22d0d041c5f9ce4edf2532eb54c620797f9da198ef548ebab78dbd8f",
+      "pixel_sha256": "d505b12ef8473f3d9e6c25ba29e9f4925a960b3b7424793ef9a24cce8239b390",
+      "source": "OWNPACE-Batch-03/images/hip-adduction-machine-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "leg-press": {
+    "a": {
+      "png": "images/original/leg-press-a.png",
+      "webp": "images/webp/leg-press-a.webp",
+      "sha256": "13bac0831aa235279b6fb9c35c76cf4fe5bf1efad6db94d346ea33832e5ba5f9",
+      "pixel_sha256": "9e11e67acf12c1c11d02c70853c250f186f77ce73285917cfdbbc1bcb1e3d68c",
+      "source": "OWNPACE-Batch-03/images/leg-press-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/leg-press-c.png",
+      "webp": "images/webp/leg-press-c.webp",
+      "sha256": "78a6c30cae0ac8abc41c3f6af69943b2fadf01e6056be890b26214f90c9926e5",
+      "pixel_sha256": "80ab4cf76f7faef3351bfd2dd300fa9f711f9b8c76d4864215790574ae5c6c4c",
+      "source": "OWNPACE-Batch-03/images/leg-press-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/leg-press-b.png",
+      "webp": "images/webp/leg-press-b.webp",
+      "sha256": "7d55ce419984000bd450d8565720809a3c3d56eaaa0fd8d7db5ade035aa5a338",
+      "pixel_sha256": "29d245e631a735998fe123e4633af4547d8b271e19d93fad45c15a2241ee8703",
+      "source": "OWNPACE-Batch-03/images/leg-press-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "smith-squat": {
+    "b": {
+      "png": "images/original/smith-squat-b.png",
+      "webp": "images/webp/smith-squat-b.webp",
+      "sha256": "4f42384348c004a6bfd91d3320a3c9c5c1068868186dab16b3b95b2bebcc451f",
+      "pixel_sha256": "13ce7c3fd8ea0441aa2f78d44be178d94be63599f11d25304f4b7b3bcf0326fc",
+      "source": "OWNPACE-Batch-03/images/smith-squat-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/smith-squat-c.png",
+      "webp": "images/webp/smith-squat-c.webp",
+      "sha256": "9c630b50741fcb4af029b56b912f3225407f4c5933dca55d185e7d38c255a363",
+      "pixel_sha256": "5037a4f0662146155ebdcce14b0e0aef7313175936c9dc7a73525c93d1c42961",
+      "source": "OWNPACE-Batch-03/images/smith-squat-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/smith-squat-a.png",
+      "webp": "images/webp/smith-squat-a.webp",
+      "sha256": "afde374e2fe478db69adef7691d2d93342a65b8c2c2ee9436b899974b07d4e1d",
+      "pixel_sha256": "c499b84aafa4f4c88efa65b06f6a25f1087cb5d5fdb4a8f06340bee550dda857",
+      "source": "OWNPACE-Batch-03/images/smith-squat-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "box-squat": {
+    "a": {
+      "png": "images/original/box-squat-a.png",
+      "webp": "images/webp/box-squat-a.webp",
+      "sha256": "73938ea74d1369fac946d1d7a8fa939cfb80a3fcd173cba90969a5b464b930fd",
+      "pixel_sha256": "72b441ed40db770f160afb57a3fddab7987f263f3695ce18d876990fe7eacd94",
+      "source": "OWNPACE-Batch-03/images/box-squat-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/box-squat-c.png",
+      "webp": "images/webp/box-squat-c.webp",
+      "sha256": "6267ea4583d96fcf5790c431f5c82d37cf062d986d1885c041095ea7a5455087",
+      "pixel_sha256": "c29ef07eb2847fae16a92ef4b070b29855ce02c81b3e53cdb8bd97cfb2fb8eb6",
+      "source": "OWNPACE-Batch-03/images/box-squat-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/box-squat-b.png",
+      "webp": "images/webp/box-squat-b.webp",
+      "sha256": "c6a9e85b50260c6ed40cd6a60adfefc945162fd4dfbae76087263f2bbf96ac31",
+      "pixel_sha256": "e684a3f6d1154f8684ede10c2a48df7cd2166e5a7f30a51c080cc3ddb153591d",
+      "source": "OWNPACE-Batch-03/images/box-squat-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "lying-leg-curl": {
+    "b": {
+      "png": "images/original/lying-leg-curl-b.png",
+      "webp": "images/webp/lying-leg-curl-b.webp",
+      "sha256": "dd0020d9c7b7ad60482a54f5d32557dddc91c84dff17160abb2b2f16ef9e7313",
+      "pixel_sha256": "e4466f021b87690fdb0acc5436fa7ee68e4613d251ad61bf5f83388bc264bee1",
+      "source": "OWNPACE-Batch-03/images/lying-leg-curl-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/lying-leg-curl-c.png",
+      "webp": "images/webp/lying-leg-curl-c.webp",
+      "sha256": "4031864e11f702fb1a93c33469389f1870aa46eab9e26970f2cea3639298b74d",
+      "pixel_sha256": "b4f28784c9fac2a406a84b8a415c62957ffba12101ab4014491693a4cd59d043",
+      "source": "OWNPACE-Batch-03/images/lying-leg-curl-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/lying-leg-curl-a.png",
+      "webp": "images/webp/lying-leg-curl-a.webp",
+      "sha256": "27e1fea01f9e34b242ce7edc0fd23ab37883e7b2b326abba0aa65fafae48775b",
+      "pixel_sha256": "5d478bc1f55b5924eb13c61d0fb85c928b2f189a684f46949bdfcb5123c459dc",
+      "source": "OWNPACE-Batch-03/images/lying-leg-curl-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "dumbbell-deadlift": {
+    "a": {
+      "png": "images/original/dumbbell-deadlift-a.png",
+      "webp": "images/webp/dumbbell-deadlift-a.webp",
+      "sha256": "48b3c932022f9caeec420331804b1583924b95a44941c19ed19c458079b44eda",
+      "pixel_sha256": "ae901f462491ff1423e7a706874990799f2f01fd5f023eb256b234e32a583c41",
+      "source": "OWNPACE-Batch-03/images/dumbbell-deadlift-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/dumbbell-deadlift-b.png",
+      "webp": "images/webp/dumbbell-deadlift-b.webp",
+      "sha256": "37366690a825e73a548733f254baac5115ca43e7ad115600aad86a23391fe7e1",
+      "pixel_sha256": "c9e69f646b2d89b26eb0ddbfbf3645e4d8e0884cf528803d1fb787f5567b8e8b",
+      "source": "OWNPACE-Batch-03/images/dumbbell-deadlift-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/dumbbell-deadlift-c.png",
+      "webp": "images/webp/dumbbell-deadlift-c.webp",
+      "sha256": "0e130aa1dced62697b18f0c96a7d9d0e19e5fb6add4daa2e25acb6062481c847",
+      "pixel_sha256": "82f39b089972af029b46947e95ae00a48daa4d1f46747fe4799bc47a3cde30b4",
+      "source": "OWNPACE-Batch-03/images/dumbbell-deadlift-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "romanian-deadlift": {
+    "a": {
+      "png": "images/original/romanian-deadlift-a.png",
+      "webp": "images/webp/romanian-deadlift-a.webp",
+      "sha256": "5e244bd78d5d5c99f143a31103ac69964a8a1c802d8f280d96b81a628147c61c",
+      "pixel_sha256": "c0acb342c87e2bf1c0e8d9b056f43b41166b668f7d394b7d4542fb86727d49e0",
+      "source": "OWNPACE-Batch-03/images/romanian-deadlift-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/romanian-deadlift-b.png",
+      "webp": "images/webp/romanian-deadlift-b.webp",
+      "sha256": "e26db772a608570983b9a430905452e8e1a0cb49adc7aa870c57511360fc6288",
+      "pixel_sha256": "58a7b17958d8e5dddf060f5e32ebe5f3ea65d4602ecf0ab308956abfd7e0b192",
+      "source": "OWNPACE-Batch-03/images/romanian-deadlift-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/romanian-deadlift-c.png",
+      "webp": "images/webp/romanian-deadlift-c.webp",
+      "sha256": "d4121dd57d56adede36fd9a24dbf42db7f40240f950899adc0c6e4f19e75638a",
+      "pixel_sha256": "4d9e3dcb545c2c1a857f91e275a1123bbf4208bc68da7c02e830e4c3812c2784",
+      "source": "OWNPACE-Batch-03/images/romanian-deadlift-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "seated-leg-curl": {
+    "a": {
+      "png": "images/original/seated-leg-curl-a.png",
+      "webp": "images/webp/seated-leg-curl-a.webp",
+      "sha256": "55548e78ba52e1f747c43b8c9ab9256eddb11add16c47d7733ce17a8b2fde657",
+      "pixel_sha256": "91b5b7394192fec5d15ebed5cbba97bd9efb7c630d87bcffc94ea08e638e9e17",
+      "source": "OWNPACE-Batch-03/images/seated-leg-curl-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/seated-leg-curl-b.png",
+      "webp": "images/webp/seated-leg-curl-b.webp",
+      "sha256": "e12dd92edb2eec88f712acf0a73eb9812b47fe30daed856015fec30a8b10bab9",
+      "pixel_sha256": "e6b88bf439a0df0f2903f88db8303e8fef6f583cadac83ff9c87a8913c46ad08",
+      "source": "OWNPACE-Batch-03/images/seated-leg-curl-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/seated-leg-curl-c.png",
+      "webp": "images/webp/seated-leg-curl-c.webp",
+      "sha256": "1e76deddeae96a2aee5da1b212d8abe092d5ee816280614b2d519eba76eb5b38",
+      "pixel_sha256": "b2a965b611317c3169f7b24fc36502f2f6b3bf75a70dffd50988d13cbbd7f474",
+      "source": "OWNPACE-Batch-03/images/seated-leg-curl-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "leg-extension": {
+    "c": {
+      "png": "images/original/leg-extension-c.png",
+      "webp": "images/webp/leg-extension-c.webp",
+      "sha256": "54d307930ac88dff1a7b8fec52677e7b8a76c3bbae1a090d5ddfa02d33425690",
+      "pixel_sha256": "dfc1421b39da4f56635709b1a5520b145a586450f780390050dc0f3e5fb0f65d",
+      "source": "OWNPACE-Batch-03/images/leg-extension-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/leg-extension-b.png",
+      "webp": "images/webp/leg-extension-b.webp",
+      "sha256": "f6884ccfc3464961c56a0000e5e321e5f11badb050f0c365363db00005b993f4",
+      "pixel_sha256": "3cd3595b40f5b1269af273f6ea24285ca2e2ac3bd7e54380d6df2d5c2b84145c",
+      "source": "OWNPACE-Batch-03/images/leg-extension-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/leg-extension-a.png",
+      "webp": "images/webp/leg-extension-a.webp",
+      "sha256": "b7288200d81eeb1f330ef6c9836d8db4a34d5b8ef237ebf6ac18580809a5024a",
+      "pixel_sha256": "4c610d3f502082bc2b990fe5c42d7129b7e3ce3d096ce58d7ef84acbd7a280f4",
+      "source": "OWNPACE-Batch-03/images/leg-extension-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "hip-abduction-machine": {
+    "b": {
+      "png": "images/original/hip-abduction-machine-b.png",
+      "webp": "images/webp/hip-abduction-machine-b.webp",
+      "sha256": "289c2985b48f66c9479c182ec6d20d0d8bd9df7e649a2a2e92e0a81648ce20d7",
+      "pixel_sha256": "b993ac231187a2520c5701ac9d651cfaa84d8df492364993aa88989a24dce8a0",
+      "source": "OWNPACE-Batch-03/images/hip-abduction-machine-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/hip-abduction-machine-c.png",
+      "webp": "images/webp/hip-abduction-machine-c.webp",
+      "sha256": "bfefe8d1e15c803addef57446cb72c20f51703d56ad81515eb1c994fdfe18e36",
+      "pixel_sha256": "46ecc1298cb1a11de7d6d53149f121aef8c59c9db449a9f94b375a2773e16e14",
+      "source": "OWNPACE-Batch-03/images/hip-abduction-machine-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/hip-abduction-machine-a.png",
+      "webp": "images/webp/hip-abduction-machine-a.webp",
+      "sha256": "4c435f157352a7b6dc45580a06412c6e318eecbb3d288bbfb7a4b74d430f9b36",
+      "pixel_sha256": "e9e93d39751a1f14d59345b145bfa2fa485aca039fb45008fab927407ab06a64",
+      "source": "OWNPACE-Batch-03/images/hip-abduction-machine-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "incline-chest-press-machine": {
+    "c": {
+      "png": "images/original/incline-chest-press-machine-c.png",
+      "webp": "images/webp/incline-chest-press-machine-c.webp",
+      "sha256": "b6eea81a036f73ad2e867f234be07f6e1b5ee3070e8100da8cc27da625392eba",
+      "pixel_sha256": "c5a2fe9a1db819488bea85475abe7d0638567bd510e9f4f7037e1529e87001a7",
+      "source": "OWNPACE-Batch-04/images/incline-chest-press-machine-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/incline-chest-press-machine-b.png",
+      "webp": "images/webp/incline-chest-press-machine-b.webp",
+      "sha256": "f3e01c9fafb42844eb2f292a3f0b789f3c5adc8fc15188dd00c15df01a370e5c",
+      "pixel_sha256": "c36dbf1f4b5f25d1d329edc6c9a0ed40a728cac83d9a9901706e5e068bd3ee04",
+      "source": "OWNPACE-Batch-04/images/incline-chest-press-machine-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/incline-chest-press-machine-a.png",
+      "webp": "images/webp/incline-chest-press-machine-a.webp",
+      "sha256": "8b81d0776df03584f81f670c3ce75e57bb9df762b4fd435d3f0be0bb4232bd98",
+      "pixel_sha256": "b3c0cd9568112238f29006e59e24ddcf9fcddbb09857f148f537456fdcf0da1e",
+      "source": "OWNPACE-Batch-04/images/incline-chest-press-machine-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "cable-chest-press": {
+    "c": {
+      "png": "images/original/cable-chest-press-c.png",
+      "webp": "images/webp/cable-chest-press-c.webp",
+      "sha256": "1c2fa80948efab3b01b53c0abf947e30f72827220558c1de50e8da3760fadc6e",
+      "pixel_sha256": "16e8a3f94612a45cf56e7beaa32f050b2d8502e8d15f1878e0f2763c70c18b42",
+      "source": "OWNPACE-Batch-04/images/cable-chest-press-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/cable-chest-press-b.png",
+      "webp": "images/webp/cable-chest-press-b.webp",
+      "sha256": "e3988455590040e7720849b50ba559f037f2b44d6be7579d4241f8fc3c0405cb",
+      "pixel_sha256": "609646ac0983a2fe12fbddc41c3c621aef4e88d4b7fb5155399a09ff8de84812",
+      "source": "OWNPACE-Batch-04/images/cable-chest-press-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/cable-chest-press-a.png",
+      "webp": "images/webp/cable-chest-press-a.webp",
+      "sha256": "072eded13aff9b54074f50185566249da0ccd2b900cd3c9bb8e838766ef9848c",
+      "pixel_sha256": "dd738ae6f0c664a7925ad588d9a780df65084b4df9a6869f2b3f7c5310e93190",
+      "source": "OWNPACE-Batch-04/images/cable-chest-press-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "dumbbell-shoulder-press": {
+    "a": {
+      "png": "images/original/dumbbell-shoulder-press-a.png",
+      "webp": "images/webp/dumbbell-shoulder-press-a.webp",
+      "sha256": "9cdc4dd1d570eb95de820e9c5a3064a64b008d1deb6f2380f80e7edf595fd0b5",
+      "pixel_sha256": "887af87a4398942958958d7685e6067e01d4df40b9d5bf41a0c37881abc855e8",
+      "source": "OWNPACE-Batch-04/images/dumbbell-shoulder-press-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/dumbbell-shoulder-press-c.png",
+      "webp": "images/webp/dumbbell-shoulder-press-c.webp",
+      "sha256": "6f1011312769a0acd6b1f7ae60171d2b23fabdb483aa42de60819d503d018490",
+      "pixel_sha256": "1cc8c793ba45b43c93447464be15158aa0d33f2c518898064daa4fc97d13b26a",
+      "source": "OWNPACE-Batch-04/images/dumbbell-shoulder-press-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/dumbbell-shoulder-press-b.png",
+      "webp": "images/webp/dumbbell-shoulder-press-b.webp",
+      "sha256": "d1800bedb816e503610525acad15d5692d549371226d3e4b26eb28ffce853880",
+      "pixel_sha256": "bf9d65b6790212bb38a4a1ee7b057678996a1bbfe6bc07e88eda0b4625f391da",
+      "source": "OWNPACE-Batch-04/images/dumbbell-shoulder-press-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "pec-deck-fly": {
+    "a": {
+      "png": "images/original/pec-deck-fly-a.png",
+      "webp": "images/webp/pec-deck-fly-a.webp",
+      "sha256": "f5880b78548f8bd0cebf4960fb9dc9a4336fde82c32e45d3f355d1224c5f8327",
+      "pixel_sha256": "54fd3b3c5d14d01b0e885a4b80ba87cb1c0018a82989a08e7032fd007edebe23",
+      "source": "OWNPACE-Batch-04/images/pec-deck-fly-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/pec-deck-fly-b.png",
+      "webp": "images/webp/pec-deck-fly-b.webp",
+      "sha256": "7c6c36e031cb61f6131388ddc1a8fb1cbcc24624ca35d6c16f0afa7621c9fb13",
+      "pixel_sha256": "53890d9eabfa74730c6d8f9f2465a8cb445e938bf14ea9727a7a0f38637118cd",
+      "source": "OWNPACE-Batch-04/images/pec-deck-fly-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/pec-deck-fly-c.png",
+      "webp": "images/webp/pec-deck-fly-c.webp",
+      "sha256": "533d36ab51b2f0549847d7406afb00f0baa640277cc3431ce02407e629489f04",
+      "pixel_sha256": "ea4c6a71d54563809c938d160e35746e4dd3c87598468c74e205ba6959cb735d",
+      "source": "OWNPACE-Batch-04/images/pec-deck-fly-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "shoulder-press-machine": {
+    "b": {
+      "png": "images/original/shoulder-press-machine-b.png",
+      "webp": "images/webp/shoulder-press-machine-b.webp",
+      "sha256": "76eba5966e81293580a5f5942c5c30e531a35408df525a2851b1dfa9f36251f0",
+      "pixel_sha256": "6ade54e4b836ffe0cd893b2e158a192bcb06dd83d3bf0e779bedbd2fda68cfde",
+      "source": "OWNPACE-Batch-04/images/shoulder-press-machine-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/shoulder-press-machine-c.png",
+      "webp": "images/webp/shoulder-press-machine-c.webp",
+      "sha256": "b1cc1fc96475255b85c2691788fda313c077d40319f0d8b409cbd6e4b5a082c8",
+      "pixel_sha256": "7bda739fefd3262bc1d8a7b529d6591b0eedb23dba1bc3762ec953164a747cf9",
+      "source": "OWNPACE-Batch-04/images/shoulder-press-machine-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/shoulder-press-machine-a.png",
+      "webp": "images/webp/shoulder-press-machine-a.webp",
+      "sha256": "3975819e18bcb7c40187bd8739ca2d7b8bed958ae5b827f02861bc40148eb620",
+      "pixel_sha256": "14398e70f7cb2934345fb0ff7d7547559651cb9ddcfafd8126ad6bec3b47074f",
+      "source": "OWNPACE-Batch-04/images/shoulder-press-machine-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "dumbbell-bench-press": {
+    "a": {
+      "png": "images/original/dumbbell-bench-press-a.png",
+      "webp": "images/webp/dumbbell-bench-press-a.webp",
+      "sha256": "54dd37d83c1c345989f641c2f1511d8e670d2c1c2e6b9e52b62522736c3ed5f8",
+      "pixel_sha256": "9613256e2797cf22f91d06d31c610dac4182f3a2551d35358858db3a590113d8",
+      "source": "OWNPACE-Batch-04/images/dumbbell-bench-press-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/dumbbell-bench-press-b.png",
+      "webp": "images/webp/dumbbell-bench-press-b.webp",
+      "sha256": "4c4f85e6b24abb1ab1ee033813a37539633345dec1bd68535cf1604427ca97b0",
+      "pixel_sha256": "6fb6efcb7213c4be37e2acc4eb36cf3d87d916825e6ef65d5e5040d5036d0d22",
+      "source": "OWNPACE-Batch-04/images/dumbbell-bench-press-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/dumbbell-bench-press-c.png",
+      "webp": "images/webp/dumbbell-bench-press-c.webp",
+      "sha256": "6aad0693d731c05de7742f72cd8a17520bb19ac0fe0c2637da308e4d6ac31fc0",
+      "pixel_sha256": "e40848ca5b129fe7c7684cd3074e3056150b5bbdfdfc9ee8a24042802dd8a3d1",
+      "source": "OWNPACE-Batch-04/images/dumbbell-bench-press-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "incline-push-up": {
+    "a": {
+      "png": "images/original/incline-push-up-a.png",
+      "webp": "images/webp/incline-push-up-a.webp",
+      "sha256": "07dc6279a2c3ef7e8d49de19095885149fcb86b8ae7870016f86a0fb652ac142",
+      "pixel_sha256": "2101e94e5e23476e094b96a667a4d7a1bd3ed06f7089ab0087e89989c634d6bb",
+      "source": "OWNPACE-Batch-04/images/incline-push-up-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/incline-push-up-b.png",
+      "webp": "images/webp/incline-push-up-b.webp",
+      "sha256": "d8771ad7f43cb72354089aa2c422af3d3f627d740975c389157d471be9f3ab47",
+      "pixel_sha256": "8ea10a531ed03114cbd54f696b28b96ca2b906d44815074a50600e989734d88c",
+      "source": "OWNPACE-Batch-04/images/incline-push-up-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/incline-push-up-c.png",
+      "webp": "images/webp/incline-push-up-c.webp",
+      "sha256": "0184b878ffcf407e8cd9e17aa1ce4639a4692b2cd062ae06b3f920c4bc78c9d5",
+      "pixel_sha256": "906d0fa589779e30340bad7720c8bfae89d8ceba712139f99d9d6a6bf54ef214",
+      "source": "OWNPACE-Batch-04/images/incline-push-up-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "push-up": {
+    "a": {
+      "png": "images/original/push-up-a.png",
+      "webp": "images/webp/push-up-a.webp",
+      "sha256": "aee868c03537c3dace826871d465ff46f417c02b52eeb01c4bf40edae19a14fc",
+      "pixel_sha256": "69e2bd4db8a48fb543cc70df4d354f6dc1ca9727ef2ce0d39a9888334ca2eb9e",
+      "source": "OWNPACE-Batch-04/images/push-up-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/push-up-b.png",
+      "webp": "images/webp/push-up-b.webp",
+      "sha256": "8c8096c38a55475c9fbb10ba88dd9c0bd53d4f40a80339d2d422da0c1397256c",
+      "pixel_sha256": "3b129d804966f871ee3d1324406f7c57e4f9609b1a01c96ae8ee8c8634374a37",
+      "source": "OWNPACE-Batch-04/images/push-up-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/push-up-c.png",
+      "webp": "images/webp/push-up-c.webp",
+      "sha256": "98786f200e7d61e1531eb3fa16998ebe1fdabcc05f4f9837b5452635d061893a",
+      "pixel_sha256": "326ba7e4a4d51ed53281ffd33de47608e5b7182a461aadd7d63ad8b97d2c9424",
+      "source": "OWNPACE-Batch-04/images/push-up-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "chest-press-machine": {
+    "c": {
+      "png": "images/original/chest-press-machine-c.png",
+      "webp": "images/webp/chest-press-machine-c.webp",
+      "sha256": "e0a80096f15a39eaa98a69fe1a5bf4e626ed01ef9c816ea1f2bc8f2fbab22a4c",
+      "pixel_sha256": "c9c65943d253fb5dc4bceb335ffe4f7709722d61a05954b9df7167c6e2cb2c06",
+      "source": "OWNPACE-Batch-04/images/chest-press-machine-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/chest-press-machine-b.png",
+      "webp": "images/webp/chest-press-machine-b.webp",
+      "sha256": "a502fdc1465e31e7c7d84e08d76c923010b8e99d52fc46d001b7ddd9bb8b3dff",
+      "pixel_sha256": "d3c6d92bcc0b8ecd8535af2dd0f84f313b356f87056038320ef24379edf6f11a",
+      "source": "OWNPACE-Batch-04/images/chest-press-machine-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/chest-press-machine-a.png",
+      "webp": "images/webp/chest-press-machine-a.webp",
+      "sha256": "09cb6536120f03bcc45c9822b858eb1e403d8820c642aee9f1573feb5adabfe9",
+      "pixel_sha256": "af8a7b22ac5c6debd5f4021be531a6199816f66b0e16f48c16c33dca3f9d5783",
+      "source": "OWNPACE-Batch-04/images/chest-press-machine-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "incline-dumbbell-press": {
+    "b": {
+      "png": "images/original/incline-dumbbell-press-b.png",
+      "webp": "images/webp/incline-dumbbell-press-b.webp",
+      "sha256": "050711b973546b2ccf964ed85ac39271b19cb334353b5e644bce8b267544e975",
+      "pixel_sha256": "d7d2547068fbf55d191f8cddbb691ff2d92b9eab919ddc4107240919d91f37b3",
+      "source": "OWNPACE-Batch-04/images/incline-dumbbell-press-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/incline-dumbbell-press-c.png",
+      "webp": "images/webp/incline-dumbbell-press-c.webp",
+      "sha256": "0d0141bd9aca7a38ecd41736fcaffb543195b4e7d282ad4f1967fcfb765b3d02",
+      "pixel_sha256": "b06ae49816ce8a919fdb18d3e52fe51feff96d74145d6ec8a5a920ff8490b4bb",
+      "source": "OWNPACE-Batch-04/images/incline-dumbbell-press-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/incline-dumbbell-press-a.png",
+      "webp": "images/webp/incline-dumbbell-press-a.webp",
+      "sha256": "3128d577b3dad98016aaeba4dca21f8299449faf493436a81c14ee216a1d148f",
+      "pixel_sha256": "79795d709d8a0b573d97ee427cef1b2ef60bc5d8b476163fb7331bf2b50a3473",
+      "source": "OWNPACE-Batch-04/images/incline-dumbbell-press-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "straight-arm-pulldown": {
+    "c": {
+      "png": "images/original/straight-arm-pulldown-c.png",
+      "webp": "images/webp/straight-arm-pulldown-c.webp",
+      "sha256": "3a5b25c0738e5d748539c206c7d3ba46306eed2c0c46d92f01e41aa812b68a7c",
+      "pixel_sha256": "62b013023f3ba944bd6cd342efa8476ec1f46f2d854de5c4a57fe98cd8ddde51",
+      "source": "OWNPACE-Batch-05/images/straight-arm-pulldown-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/straight-arm-pulldown-b.png",
+      "webp": "images/webp/straight-arm-pulldown-b.webp",
+      "sha256": "de76468f9016bfc1a68f0de72eea350b0af2d258b80fdc0de4daed736c82edc2",
+      "pixel_sha256": "0ae697bf4fe8e514d5a5807d0e12720f1545eb9b13955f88ce1e55379c0ec796",
+      "source": "OWNPACE-Batch-05/images/straight-arm-pulldown-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/straight-arm-pulldown-a.png",
+      "webp": "images/webp/straight-arm-pulldown-a.webp",
+      "sha256": "2007a74df9dd5a13468e60acc714ab2fad49fd3e6bad6de8b194e5daab18f26c",
+      "pixel_sha256": "c4cf8e5358a125cfa31108d37f58e761771251b3a80342cd5626ad93c93829bf",
+      "source": "OWNPACE-Batch-05/images/straight-arm-pulldown-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "one-arm-dumbbell-row": {
+    "a": {
+      "png": "images/original/one-arm-dumbbell-row-a.png",
+      "webp": "images/webp/one-arm-dumbbell-row-a.webp",
+      "sha256": "0e8ec5620fd60c39d702dbdd014927f89cf668014754e5ad1c1ff1054496ebd8",
+      "pixel_sha256": "cb78294fca3a32183784b364f819a9ec34e1631b64fd9496766c03950bdb6024",
+      "source": "OWNPACE-Batch-05/images/one-arm-dumbbell-row-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/one-arm-dumbbell-row-c.png",
+      "webp": "images/webp/one-arm-dumbbell-row-c.webp",
+      "sha256": "7137716904727d394a31c80bef7c20703adb3a5c599984c6631ed0cd3d1a15b3",
+      "pixel_sha256": "c9feb520aa90853c994b8a0b8f9e39b348eb4f41c272a75b921f82f86452b7f1",
+      "source": "OWNPACE-Batch-05/images/one-arm-dumbbell-row-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/one-arm-dumbbell-row-b.png",
+      "webp": "images/webp/one-arm-dumbbell-row-b.webp",
+      "sha256": "12f3a5c5a6a6660addf5d634854983df4d246887d3724879bf0d64b11aa57dc6",
+      "pixel_sha256": "49ce6a38fb599a6552a11ac47b3febe0e3f07fa6820693af588a9fb75295cc22",
+      "source": "OWNPACE-Batch-05/images/one-arm-dumbbell-row-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "assisted-pull-up": {
+    "a": {
+      "png": "images/original/assisted-pull-up-a.png",
+      "webp": "images/webp/assisted-pull-up-a.webp",
+      "sha256": "608a6ce0a48f55c681dd281eaadb026ab905810ba78cd486df16ae75d1c6dd78",
+      "pixel_sha256": "16c2a32da8303662820f3ac7633ff1e1d26977acd65bc04d699b5ca2b15713bf",
+      "source": "OWNPACE-Batch-05/images/assisted-pull-up-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/assisted-pull-up-b.png",
+      "webp": "images/webp/assisted-pull-up-b.webp",
+      "sha256": "a165c36da298ce327d48031e7308a3ccea9810ecc038423b10d4f53927f90c6f",
+      "pixel_sha256": "ea653d9431e779aafc03e25d7d2ed7554352a07129cb8d73d09cbce8e35b544f",
+      "source": "OWNPACE-Batch-05/images/assisted-pull-up-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/assisted-pull-up-c.png",
+      "webp": "images/webp/assisted-pull-up-c.webp",
+      "sha256": "5823c3f75fffed2324428a54b392f663da2024028f69e0214c13570a36c1c7ce",
+      "pixel_sha256": "49884f72a359bd86c11f7835c57e31b18240358233beac4edaa3085ecc47c0b8",
+      "source": "OWNPACE-Batch-05/images/assisted-pull-up-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "machine-row": {
+    "b": {
+      "png": "images/original/machine-row-b.png",
+      "webp": "images/webp/machine-row-b.webp",
+      "sha256": "5fd404cb716b0814d23a707f5f345b1533c0f8556952516c5078014e3e35edbf",
+      "pixel_sha256": "79237b1536eae435cb466326e3d0bf9a84db7436183d42ed1b7a1ea35e8c8c52",
+      "source": "OWNPACE-Batch-05/images/machine-row-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/machine-row-c.png",
+      "webp": "images/webp/machine-row-c.webp",
+      "sha256": "46f5d2e7b04321eec095b6a507ca7d1b136991755b0e772d1f20e6f3fc279d90",
+      "pixel_sha256": "d73901f6aa792b7c8739d1fa4698b57f1da9a50708fef56abb19287278eb02e9",
+      "source": "OWNPACE-Batch-05/images/machine-row-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/machine-row-a.png",
+      "webp": "images/webp/machine-row-a.webp",
+      "sha256": "b3e7373b8112b1a5f7a9c05072c3d2329c134dc98416d285927d9aa2c1d055de",
+      "pixel_sha256": "ffed262be73a1a942871177a1452d38920d5f5fe29db0664fe9110d7eebad21d",
+      "source": "OWNPACE-Batch-05/images/machine-row-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "back-extension": {
+    "c": {
+      "png": "images/original/back-extension-c.png",
+      "webp": "images/webp/back-extension-c.webp",
+      "sha256": "3bbbfd402b074d0668c8d62e56dde8eaec5aa377d8d39e2cdf9ed800a88ffdaa",
+      "pixel_sha256": "799835204a3ef8fb4b784654ce07f750b3930199566d16c6dce459d212b1f6cc",
+      "source": "OWNPACE-Batch-05/images/back-extension-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/back-extension-b.png",
+      "webp": "images/webp/back-extension-b.webp",
+      "sha256": "83cfe4bc3a767442ea8cfbf73ffe4ceec2cf820593cea6e119472193ec40b397",
+      "pixel_sha256": "1ea4e317f51d61149b280c29f0d7b467d5a2369f94f8e210096f554a69dd837b",
+      "source": "OWNPACE-Batch-05/images/back-extension-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/back-extension-a.png",
+      "webp": "images/webp/back-extension-a.webp",
+      "sha256": "6cf3f45c7f85ed90925daf002485725b1f10fd7c82b2d79d19e419dd1d12079c",
+      "pixel_sha256": "93cb4bed86851ec894602ead76885adad99971a95f226a2e1fcec3bdae8992b5",
+      "source": "OWNPACE-Batch-05/images/back-extension-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "lat-pulldown": {
+    "a": {
+      "png": "images/original/lat-pulldown-a.png",
+      "webp": "images/webp/lat-pulldown-a.webp",
+      "sha256": "2a8b3853cfbd770fb7bfcd9081e965c9de0036e1df75f2cb1a556f1d183c3ba9",
+      "pixel_sha256": "1921c685fc716b5d86b9a7603ecf0985e8ebccf63a2e934f404c0e67ecc53af0",
+      "source": "OWNPACE-Batch-05/images/lat-pulldown-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/lat-pulldown-b.png",
+      "webp": "images/webp/lat-pulldown-b.webp",
+      "sha256": "eab093a38aaba1bae7c989dd44110984a61c9bbd6fd6bc9258e31854ac392c39",
+      "pixel_sha256": "476439b8f51d9f0ca25c9aa4ccdd27ea19b1be2e909b202efc08b0efada528cc",
+      "source": "OWNPACE-Batch-05/images/lat-pulldown-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/lat-pulldown-c.png",
+      "webp": "images/webp/lat-pulldown-c.webp",
+      "sha256": "77d3f8dfe196794b0c78eae72491bb19040a5fdd16fc87c6a80952efdd3dad6f",
+      "pixel_sha256": "7c870da0bc1b6e28510f630c6b98b639c7afa3b2848232049770fa2941843250",
+      "source": "OWNPACE-Batch-05/images/lat-pulldown-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "seated-cable-row": {
+    "b": {
+      "png": "images/original/seated-cable-row-b.png",
+      "webp": "images/webp/seated-cable-row-b.webp",
+      "sha256": "b15dd75ac78d71287a332901bc6ba0fd05f6891e804200206542bb14a37660d1",
+      "pixel_sha256": "487a5861fa83f75b615699e4c2d0bb43d437aad0ac968a5012cfb41058e29a71",
+      "source": "OWNPACE-Batch-05/images/seated-cable-row-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/seated-cable-row-c.png",
+      "webp": "images/webp/seated-cable-row-c.webp",
+      "sha256": "6f6584971a2a958004a48ea2cd00c27b676adc874107faa92a6d1530f73920e9",
+      "pixel_sha256": "ef732c35f7498e0eaabb299b4bfe97dc25772d736ad9925094e51ad93b7ed9f8",
+      "source": "OWNPACE-Batch-05/images/seated-cable-row-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/seated-cable-row-a.png",
+      "webp": "images/webp/seated-cable-row-a.webp",
+      "sha256": "70895f46ee6197414efe1ebce70961cfb8fc3c86261100604f194471bafd0f15",
+      "pixel_sha256": "34a76aad23dbcdd3a3562e4d45f54f9fde4e215ec498952f910e49455c6100a6",
+      "source": "OWNPACE-Batch-05/images/seated-cable-row-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "reverse-fly-machine": {
+    "c": {
+      "png": "images/original/reverse-fly-machine-c.png",
+      "webp": "images/webp/reverse-fly-machine-c.webp",
+      "sha256": "1c15d2d4139be32e25724fc2f59b1fcd31641e29339e1513367291d590bbc451",
+      "pixel_sha256": "55cb5af697633ac08e0ea43ef3b9eb3a785ea1d7cd1afbaaea70f2ac5db1bc4e",
+      "source": "OWNPACE-Batch-05/images/reverse-fly-machine-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/reverse-fly-machine-b.png",
+      "webp": "images/webp/reverse-fly-machine-b.webp",
+      "sha256": "650412e1a074d9c196633900ca36307246233bb084b381014a49f8500874459c",
+      "pixel_sha256": "8d2b082b27a2cba6a19a6f915fb907f7c97c88b3958b665766a2fd705d489fb1",
+      "source": "OWNPACE-Batch-05/images/reverse-fly-machine-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/reverse-fly-machine-a.png",
+      "webp": "images/webp/reverse-fly-machine-a.webp",
+      "sha256": "5c7ff92e9a029569b5f074f77cda86f4526825322a6ad13fad8023c4ce59a746",
+      "pixel_sha256": "658f2549de87314a91e55fe1ea6d700cb16a26fd67adc899f7284bb84fbf7ad0",
+      "source": "OWNPACE-Batch-05/images/reverse-fly-machine-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "close-grip-lat-pulldown": {
+    "a": {
+      "png": "images/original/close-grip-lat-pulldown-a.png",
+      "webp": "images/webp/close-grip-lat-pulldown-a.webp",
+      "sha256": "be346ebfe2ad44d88dedcd6d1115c892a8153844cd50ac9951558d3e8ff82826",
+      "pixel_sha256": "d4532040befe4640da20be1c7e88d012298e459ae8ef690757e664dd77242957",
+      "source": "OWNPACE-Batch-05/images/close-grip-lat-pulldown-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/close-grip-lat-pulldown-b.png",
+      "webp": "images/webp/close-grip-lat-pulldown-b.webp",
+      "sha256": "cfd299547d7de9388d43f5b17c69d55da940f3fb94a7b76d08cd57ba6070beba",
+      "pixel_sha256": "232471725c5be942c9ff079406de916d6dba497215b57416dd906655af41a8c1",
+      "source": "OWNPACE-Batch-05/images/close-grip-lat-pulldown-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/close-grip-lat-pulldown-c.png",
+      "webp": "images/webp/close-grip-lat-pulldown-c.webp",
+      "sha256": "f4852a708fd1aa3c50712513733c4b4cbf6644ffc30ca12e24a66a4d7906f448",
+      "pixel_sha256": "b1f809f5ec11037506432826f18e7980c67a231ba6011d54c0f3f23cb284f60f",
+      "source": "OWNPACE-Batch-05/images/close-grip-lat-pulldown-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "face-pull": {
+    "a": {
+      "png": "images/original/face-pull-a.png",
+      "webp": "images/webp/face-pull-a.webp",
+      "sha256": "fc794fbc435215c19160b9df4aeff1451c48f0f886a1773c9a43617c105d8d37",
+      "pixel_sha256": "dff5a348463fd6d7683a3500f77cf585261118ef21db477a04af8ef85f78b296",
+      "source": "OWNPACE-Batch-05/images/face-pull-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/face-pull-c.png",
+      "webp": "images/webp/face-pull-c.webp",
+      "sha256": "4b7ba5b37802b9a804f0f52239add21b49f2262bea808745a6d931975cd390ff",
+      "pixel_sha256": "e502fdb66534e593cd28ca7c533673e8dfa667d03f09e57a3c5a437c2f00d84d",
+      "source": "OWNPACE-Batch-05/images/face-pull-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/face-pull-b.png",
+      "webp": "images/webp/face-pull-b.webp",
+      "sha256": "b6bca9c250e3644ec05c157ca04dea970aa63833b28a66010a3abab89e6b446b",
+      "pixel_sha256": "fbf8c82fa2072b86d766e251528d22e4efec03a1d3553033672289a81d67fba7",
+      "source": "OWNPACE-Batch-05/images/face-pull-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "dumbbell-biceps-curl": {
+    "a": {
+      "png": "images/original/dumbbell-biceps-curl-a.png",
+      "webp": "images/webp/dumbbell-biceps-curl-a.webp",
+      "sha256": "5016b6c7ac95754b6973964555969f641759fe1ea067c37e5e45f3c6ab0c0cbb",
+      "pixel_sha256": "44b9a5f9228db13b3e4509b40dc08e554e715fdef56741a71f69ccb3385d74ae",
+      "source": "OWNPACE-Batch-06/images/dumbbell-biceps-curl-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/dumbbell-biceps-curl-c.png",
+      "webp": "images/webp/dumbbell-biceps-curl-c.webp",
+      "sha256": "ac9a7115d26f20e15bc9971da3730a7843b585af4dc97983ec72e46b327261b7",
+      "pixel_sha256": "f200a7b3e6aa949f5b25f1d1a18dafe8157edf8a83a5dc9f3d4efa71b1106ae3",
+      "source": "OWNPACE-Batch-06/images/dumbbell-biceps-curl-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/dumbbell-biceps-curl-b.png",
+      "webp": "images/webp/dumbbell-biceps-curl-b.webp",
+      "sha256": "a08ced92031c23a7695338a8588efd15486d9c011e998d08a3897221f66c2a25",
+      "pixel_sha256": "8f844e4ebd9036d2dbd24337c6d94a590072e67764a53c0262e088a2f9c0c4bc",
+      "source": "OWNPACE-Batch-06/images/dumbbell-biceps-curl-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "dead-bug": {
+    "c": {
+      "png": "images/original/dead-bug-c.png",
+      "webp": "images/webp/dead-bug-c.webp",
+      "sha256": "ca8847fec9aaca4342d1544b9d932c3950a1c11679b503786e2eb7a4b23a6443",
+      "pixel_sha256": "8e1344faec91874f89622c282caa76579725ae6a067b49e20570a989551eee37",
+      "source": "OWNPACE-Batch-06/images/dead-bug-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/dead-bug-b.png",
+      "webp": "images/webp/dead-bug-b.webp",
+      "sha256": "f9bc2b012e2270d08dcf3b36d1537063df91ddc8605ed9ef5ebfa1dce3563bc7",
+      "pixel_sha256": "ff5915272fc531a135c0a6c0d2678bb809c8ad63f61e377abac2df91a3438b98",
+      "source": "OWNPACE-Batch-06/images/dead-bug-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/dead-bug-a.png",
+      "webp": "images/webp/dead-bug-a.webp",
+      "sha256": "2a20a0ee2dd6d38ed54e200bcd7705f127f047a6b3e2a2083c2c7d92e88ec6ea",
+      "pixel_sha256": "043f028729c2ef721a47742b950e3f4ca9d1ffb4504fc40171b6aaea8d3f4d9a",
+      "source": "OWNPACE-Batch-06/images/dead-bug-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "triceps-pushdown": {
+    "a": {
+      "png": "images/original/triceps-pushdown-a.png",
+      "webp": "images/webp/triceps-pushdown-a.webp",
+      "sha256": "ad28a8093638f8d18d5bb35ee1870f96bc192abe651335c5953fe74bc04240ef",
+      "pixel_sha256": "440eecbb07ba88f23b122b6e2ccbe2ed5ffbc34168458959a1585d1c407f44de",
+      "source": "OWNPACE-Batch-06/images/triceps-pushdown-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/triceps-pushdown-b.png",
+      "webp": "images/webp/triceps-pushdown-b.webp",
+      "sha256": "655dc7d40e84020992d29ce1adfe9ff16be0c02c9710a8ae2f412dd7df7900c0",
+      "pixel_sha256": "2fc3ded1d4bf8f427baa539812e893c4a9fd239688f0e5b414e69bccbb7b79e3",
+      "source": "OWNPACE-Batch-06/images/triceps-pushdown-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/triceps-pushdown-c.png",
+      "webp": "images/webp/triceps-pushdown-c.webp",
+      "sha256": "d51c7dcf34e1014e6a6fdffabe616fb2251e58607ed1ca8186ea80b4d668592a",
+      "pixel_sha256": "e5ce37a2526907105df8993db108d87d6a8ac72992daba3b97c1e2ddc953f9d8",
+      "source": "OWNPACE-Batch-06/images/triceps-pushdown-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "cable-biceps-curl": {
+    "b": {
+      "png": "images/original/cable-biceps-curl-b.png",
+      "webp": "images/webp/cable-biceps-curl-b.webp",
+      "sha256": "6ea54045f2e8a4cd9daab53a7b008e305cbac5136bc3d5f9000300ae70c0c7f5",
+      "pixel_sha256": "53300453b4fa6dfa0395e8fea8c38337a1bfdf090b52c09eb65334236cf1da6b",
+      "source": "OWNPACE-Batch-06/images/cable-biceps-curl-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/cable-biceps-curl-c.png",
+      "webp": "images/webp/cable-biceps-curl-c.webp",
+      "sha256": "c7e31a22c142d028dacfaf98f59beba05ccbdb0fdd512d4da80ca3a479c23e2c",
+      "pixel_sha256": "b0290511ec8f736d76f26160d5277a180e6a4f56cd5d2ff818542a45ff9d6cf3",
+      "source": "OWNPACE-Batch-06/images/cable-biceps-curl-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/cable-biceps-curl-a.png",
+      "webp": "images/webp/cable-biceps-curl-a.webp",
+      "sha256": "9afa3a3b28f5c61923174224b0c237cf52a10740dc85f80be4cf4e534f5d456f",
+      "pixel_sha256": "c2839f7c0c43fbc013a0b659cd29765f646d89b3aaf5c8848e1b0b281a1564fe",
+      "source": "OWNPACE-Batch-06/images/cable-biceps-curl-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "overhead-triceps-extension": {
+    "a": {
+      "png": "images/original/overhead-triceps-extension-a.png",
+      "webp": "images/webp/overhead-triceps-extension-a.webp",
+      "sha256": "040590a684df0ba59663d0ef2715f01756252ae1e770091487bac703b804d18e",
+      "pixel_sha256": "e6337b780b85aae8d11b246a476d5495d2117cca237c9e331d983c0e8afdbcbd",
+      "source": "OWNPACE-Batch-06/images/overhead-triceps-extension-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/overhead-triceps-extension-c.png",
+      "webp": "images/webp/overhead-triceps-extension-c.webp",
+      "sha256": "67ea78d04d964eccd7efeced5c229b9d10448005335607c683df0a7061ea3cbc",
+      "pixel_sha256": "f98844b14774b21c3ce48bf5b1ccf07152020d3d0253e1e37533162a99df0d43",
+      "source": "OWNPACE-Batch-06/images/overhead-triceps-extension-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/overhead-triceps-extension-b.png",
+      "webp": "images/webp/overhead-triceps-extension-b.webp",
+      "sha256": "4d65acba43961112f2e23a06b8baff3aa65e8f38dd9d159a8d67acd3d94583c4",
+      "pixel_sha256": "1307289c32b934206a881bbc7a7564f7e887c25f9bcb9c3a095d6889cc4bd88b",
+      "source": "OWNPACE-Batch-06/images/overhead-triceps-extension-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "plank": {
+    "a": {
+      "png": "images/original/plank-a.png",
+      "webp": "images/webp/plank-a.webp",
+      "sha256": "a56bd2dc8102ebb363e649321bbe136692bf4099a270d41d4af7326e40f81fd6",
+      "pixel_sha256": "8cbcbbfc01e6fadc62359f100a7b69b4a6944a897c1ae1a7ebf0ef333020c177",
+      "source": "OWNPACE-Batch-06/images/plank-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/plank-b.png",
+      "webp": "images/webp/plank-b.webp",
+      "sha256": "cf529dbaa96d486d66ff512c2afe374b9bf41a65e9a53a2fcf4d0b8fef17697b",
+      "pixel_sha256": "3301531d4695cb6cbb9995c074b576cd675fe8f17e8c6fb248ab1d8cc428ff56",
+      "source": "OWNPACE-Batch-06/images/plank-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/plank-c.png",
+      "webp": "images/webp/plank-c.webp",
+      "sha256": "f54faae6ab6456f4929f63b108dd3c9dd80a4cb4fcbd162ad5a0cf2c990b3b52",
+      "pixel_sha256": "437c8cb6397f8c53f3c82b5811fa77edb76770aba4856e01521dab0ffa17118b",
+      "source": "OWNPACE-Batch-06/images/plank-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "cable-crunch": {
+    "a": {
+      "png": "images/original/cable-crunch-a.png",
+      "webp": "images/webp/cable-crunch-a.webp",
+      "sha256": "860e826a3ea1ca4000789af13ba1c26fab8f76bfa514875ad05d05b2ac01ff12",
+      "pixel_sha256": "a64e14e8c84299d444f0077a1e1555fa62da527e393f2cae4f09ed3fc2032d13",
+      "source": "OWNPACE-Batch-06/images/cable-crunch-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/cable-crunch-c.png",
+      "webp": "images/webp/cable-crunch-c.webp",
+      "sha256": "cf0cd95bbc65a1a280790d2eae91e3ff181f0760f09732554d56906ef3c48603",
+      "pixel_sha256": "ba51f9cd3fed4897d695e71fcf3f849a87a96d801c2f15828a2b45802568f68b",
+      "source": "OWNPACE-Batch-06/images/cable-crunch-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/cable-crunch-b.png",
+      "webp": "images/webp/cable-crunch-b.webp",
+      "sha256": "3c2e7d0565ec4df0b5609a465917cf38e377b43a53a940dd1803d378c10b7333",
+      "pixel_sha256": "6891ead7e0d07c0d423bcfbda3080985e4c7bf82e3808106a61a75b6a83a39fe",
+      "source": "OWNPACE-Batch-06/images/cable-crunch-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "side-plank": {
+    "c": {
+      "png": "images/original/side-plank-c.png",
+      "webp": "images/webp/side-plank-c.webp",
+      "sha256": "10e397a47286ade99ae0bb18ddc117c12097c08a83e70dd806db983e8493636a",
+      "pixel_sha256": "330927f0d4de2a391b5cdcde58724057c1da1aa77c5cf8d65850236b9109e17f",
+      "source": "OWNPACE-Batch-06/images/side-plank-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/side-plank-b.png",
+      "webp": "images/webp/side-plank-b.webp",
+      "sha256": "19b3a060a3839a5afc53b469f7e7d2a8fa78cf670b94a76c2af62a1a58ff9bd1",
+      "pixel_sha256": "3951d8c82da2834e67b2c359f8e397e9303679164e3ce7257cce822648ebe28d",
+      "source": "OWNPACE-Batch-06/images/side-plank-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/side-plank-a.png",
+      "webp": "images/webp/side-plank-a.webp",
+      "sha256": "818b2bbc06aebcdfa4b9a56fa6374c2ba5a750c20070d008231f1cfad553094c",
+      "pixel_sha256": "e1783bba03119bcb48ba1d8d355e5b7dbdc588838f0ec8bd87afef78445808ea",
+      "source": "OWNPACE-Batch-06/images/side-plank-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "bird-dog": {
+    "c": {
+      "png": "images/original/bird-dog-c.png",
+      "webp": "images/webp/bird-dog-c.webp",
+      "sha256": "5d1aaffdd713afcde2805e192163562f61c150eae4cebb3e5996aba0385a0c34",
+      "pixel_sha256": "3d606967e1c0a888956d91649562edd34f8aeada4503ad140759c15188c8c460",
+      "source": "OWNPACE-Batch-06/images/bird-dog-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/bird-dog-b.png",
+      "webp": "images/webp/bird-dog-b.webp",
+      "sha256": "a2ac22c28a28bc11b891c5ea34efbf3afb785682829affafd929c43b1f6ad857",
+      "pixel_sha256": "20a8639194fa6aeb5a101ae4e165507fcd3260111910531e3db5903bed48f20a",
+      "source": "OWNPACE-Batch-06/images/bird-dog-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/bird-dog-a.png",
+      "webp": "images/webp/bird-dog-a.webp",
+      "sha256": "ce6ede61c83600a110277296266eaddcaa692b65c7ee41ea4167ef47f1e74f28",
+      "pixel_sha256": "c8fbd17c2f6d21f43e318323a52ea03ead4290af8d7a23b2579d4f165aec1788",
+      "source": "OWNPACE-Batch-06/images/bird-dog-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "hammer-curl": {
+    "b": {
+      "png": "images/original/hammer-curl-b.png",
+      "webp": "images/webp/hammer-curl-b.webp",
+      "sha256": "63c97bdb584249426b6c7702cdf11c1fb01544521a583b70b64a96ebbba537f0",
+      "pixel_sha256": "11fd5422993565df3d4c83d38439cd3f4047c5e99a246cab44f159544dce7871",
+      "source": "OWNPACE-Batch-06/images/hammer-curl-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/hammer-curl-c.png",
+      "webp": "images/webp/hammer-curl-c.webp",
+      "sha256": "2b292e724a5a66d5a6a05e49f8cfd9b11854106c342affde1680a1f761eca3d2",
+      "pixel_sha256": "0df5a0a164744964f73a77ee1097dea485f07c17597db424cb577f0ec49fc7af",
+      "source": "OWNPACE-Batch-06/images/hammer-curl-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/hammer-curl-a.png",
+      "webp": "images/webp/hammer-curl-a.webp",
+      "sha256": "63c2bb4fd3ec49e74644d72256d73b1d47700d72aaccf8bae60240705c9b57d9",
+      "pixel_sha256": "0ecca47dce0eb7bb788a7cd15f154307fe5df9af44249c1e0c3457954f17ec9a",
+      "source": "OWNPACE-Batch-06/images/hammer-curl-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "hip-flexor-stretch": {
+    "c": {
+      "png": "images/original/hip-flexor-stretch-c.png",
+      "webp": "images/webp/hip-flexor-stretch-c.webp",
+      "sha256": "4a4089d4c6e504c96707abba78bd01c18b397178a0b0e32a5a61dc050ab37419",
+      "pixel_sha256": "a414350539b0fca941a21a2e422a622895bb714c1e55c920712663008e053972",
+      "source": "OWNPACE-Batch-07/images/hip-flexor-stretch-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/hip-flexor-stretch-b.png",
+      "webp": "images/webp/hip-flexor-stretch-b.webp",
+      "sha256": "daba2f6e38ec503a97950b8366bfd0a96b83ed313e41fc4a376572e5e1afda3b",
+      "pixel_sha256": "b2348da1beb9062f0f924f8f1dfc183b209597fc9a2a9dbf78bba820422b088e",
+      "source": "OWNPACE-Batch-07/images/hip-flexor-stretch-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/hip-flexor-stretch-a.png",
+      "webp": "images/webp/hip-flexor-stretch-a.webp",
+      "sha256": "85531476ca2388589d6d7d18482203e48ef5ce6a8b2c7202553e10969784bc74",
+      "pixel_sha256": "8ede129432c82605a9329f924cc9cee531bbc3b06c1e0572debe9aebffd0c9ba",
+      "source": "OWNPACE-Batch-07/images/hip-flexor-stretch-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "hamstring-stretch": {
+    "b": {
+      "png": "images/original/hamstring-stretch-b.png",
+      "webp": "images/webp/hamstring-stretch-b.webp",
+      "sha256": "7fa4ab69aaa5e9b6f019b02c83496854d6d218e2695fd781a80ff4813a86b474",
+      "pixel_sha256": "c744fa67d02ed01613d027cc517e178c7116601ba959ed00fa4f01426cc250a8",
+      "source": "OWNPACE-Batch-07/images/hamstring-stretch-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/hamstring-stretch-c.png",
+      "webp": "images/webp/hamstring-stretch-c.webp",
+      "sha256": "a08e10776ddaf85e596a417b8e79ff2ca425a07fe63329cf31895489aa298a5f",
+      "pixel_sha256": "6ecc895926059cd7ba8d292c633d9c5e681131707d2749c574466ab58eea117f",
+      "source": "OWNPACE-Batch-07/images/hamstring-stretch-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "a": {
+      "png": "images/original/hamstring-stretch-a.png",
+      "webp": "images/webp/hamstring-stretch-a.webp",
+      "sha256": "bebf33e8a7bf5054e800b1415d99800f98cdc221c6f55593ac03ac3f606778bf",
+      "pixel_sha256": "d5858563e115e5728fdf54d9de711d2f0b1e4fa3486c40dbbafc8873651b2fd4",
+      "source": "OWNPACE-Batch-07/images/hamstring-stretch-a.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "cat-cow": {
+    "a": {
+      "png": "images/original/cat-cow-a.png",
+      "webp": "images/webp/cat-cow-a.webp",
+      "sha256": "56ad75520fddae0e8f151faac3d54b18156707baaf790ab2d7e9ffe64e0fc9cc",
+      "pixel_sha256": "0835682d2dc43762b36b4a1975193ca65f0830848999ef2c8334405088867935",
+      "source": "OWNPACE-Batch-07/images/cat-cow-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/cat-cow-b.png",
+      "webp": "images/webp/cat-cow-b.webp",
+      "sha256": "aef0f2f5188d78825c30852adeb11e667abb3e19c571bc618b37e4667e6b7855",
+      "pixel_sha256": "bd7e1f0039790b22bfef84c22f274adb8b2fc91e0466661bafbce7278b5ee413",
+      "source": "OWNPACE-Batch-07/images/cat-cow-b.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/cat-cow-c.png",
+      "webp": "images/webp/cat-cow-c.webp",
+      "sha256": "8b7777552baa85688086c33b48b74cd9b75620a88fcec816e41f58e24e691a38",
+      "pixel_sha256": "871310dcfb2ab9ac2b75a35be8f0f37eb2d9cc833944567abdef366ecd344685",
+      "source": "OWNPACE-Batch-07/images/cat-cow-c.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "childs-pose": {
+    "a": {
+      "png": "images/original/childs-pose-a.png",
+      "webp": "images/webp/childs-pose-a.webp",
+      "sha256": "6b744811bd485b891eb2aa3c972d78761b1bfe6b2897f1f51f5d7ef4e23ba2e1",
+      "pixel_sha256": "47a35d3ff3d7fbda13b92fdd3a3445be8f75aa35ba714a8f75a6611b3797c855",
+      "source": "OWNPACE-Batch-07/images/childs-pose-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/childs-pose-c.png",
+      "webp": "images/webp/childs-pose-c.webp",
+      "sha256": "06b03f9b4967609268b694c5012adc4e2b01ea1505942f7f6aa9a6866a4e1630",
+      "pixel_sha256": "406c00b6db6b975c68a1e1eb9ac9b58aeff67362afa47124af3edcf51dfe75ed",
+      "source": "OWNPACE-Batch-07/images/childs-pose-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/childs-pose-b.png",
+      "webp": "images/webp/childs-pose-b.webp",
+      "sha256": "70d529131a7e08677c8f276b14fad3f28c8eb11fa6e276c52ef09f0a00694efc",
+      "pixel_sha256": "f57639b9b1d89a8f854bf038a3d6a63b61a7b5242f8f7039e375305f479650b3",
+      "source": "OWNPACE-Batch-07/images/childs-pose-b.png",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "standing-quad-stretch": {
+    "a": {
+      "png": "images/original/standing-quad-stretch-a.png",
+      "webp": "images/webp/standing-quad-stretch-a.webp",
+      "sha256": "e6fda84095b359b006ef83ffbb634340aaff2359c16b4c492e04bb3b5cee1928",
+      "pixel_sha256": "6bf11bd4d524d11db2c2124e5067af8851cca0bbd9e003e952880389abe6ce5a",
+      "source": "OWNPACE-Batch-07/images/standing-quad-stretch-a.png",
+      "width": 512,
+      "height": 512
+    },
+    "c": {
+      "png": "images/original/standing-quad-stretch-c.png",
+      "webp": "images/webp/standing-quad-stretch-c.webp",
+      "sha256": "1a30e30a31eda2b8d741e17c1347298ec12e72d4c2e6fc675ff0e77035512627",
+      "pixel_sha256": "06e48d15e22b6dc8bc3d554bd3ddf8823392c4f44473fb67206e6d2ea39710bf",
+      "source": "OWNPACE-Batch-07/images/standing-quad-stretch-c.png",
+      "width": 512,
+      "height": 512
+    },
+    "b": {
+      "png": "images/original/standing-quad-stretch-b.png",
+      "webp": "images/webp/standing-quad-stretch-b.webp",
+      "sha256": "3c15b73b5b1ad7baa1ac00813c63e52ab53abecd0c01b3dbf0e7d102c1532440",
+      "pixel_sha256": "ff731bca6c09fe7e18ef597a048feee682afe05e9e11bdf20422d185fc989150",
+      "source": "OWNPACE-Batch-07/images/standing-quad-stretch-b.png",
+      "width": 512,
+      "height": 512
+    }
+  }
+}

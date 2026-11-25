@@ -1,0 +1,52 @@
+{
+  "id": "triceps-pushdown",
+  "name_en": "Rope Triceps Pushdown",
+  "description_en": "Rope Triceps Pushdown — strength movement targeting triceps.",
+  "category": "strength",
+  "body_part": "arms",
+  "equipment": "cable-machine",
+  "equipment_list": [
+    "cable-machine"
+  ],
+  "primary_muscles": [
+    "triceps"
+  ],
+  "secondary_muscles": [],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Stand facing a high pulley and grasp the rope.",
+    "Extend elbows to press down and return slowly."
+  ],
+  "tips_en": [
+    "Keep elbows near the torso and avoid leaning into the load."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/triceps-pushdown-a.webp",
+      "b": "images/webp/triceps-pushdown-b.webp",
+      "c": "images/webp/triceps-pushdown-c.webp"
+    },
+    "original": {
+      "a": "images/original/triceps-pushdown-a.png",
+      "b": "images/original/triceps-pushdown-b.png",
+      "c": "images/original/triceps-pushdown-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Previously reassigned imagery; confirm rope and pulley attachment."
+  },
+  "source_batch": 6
+}

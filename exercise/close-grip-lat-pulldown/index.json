@@ -1,0 +1,55 @@
+{
+  "id": "close-grip-lat-pulldown",
+  "name_en": "Close-Grip Lat Pulldown",
+  "description_en": "Close-Grip Lat Pulldown — strength movement targeting lats.",
+  "category": "strength",
+  "body_part": "back",
+  "equipment": "cable-machine",
+  "equipment_list": [
+    "cable-machine"
+  ],
+  "primary_muscles": [
+    "lats"
+  ],
+  "secondary_muscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "difficulty": "beginner",
+  "force_type": "pull",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Secure thighs under the pad and grasp the close-grip handle.",
+    "Pull toward the upper chest, then return overhead."
+  ],
+  "tips_en": [
+    "Avoid leaning far backward or jerking the cable."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/close-grip-lat-pulldown-a.webp",
+      "b": "images/webp/close-grip-lat-pulldown-b.webp",
+      "c": "images/webp/close-grip-lat-pulldown-c.webp"
+    },
+    "original": {
+      "a": "images/original/close-grip-lat-pulldown-a.png",
+      "b": "images/original/close-grip-lat-pulldown-b.png",
+      "c": "images/original/close-grip-lat-pulldown-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 5
+}

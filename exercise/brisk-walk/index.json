@@ -1,0 +1,56 @@
+{
+  "id": "brisk-walk",
+  "name_en": "Brisk Walk",
+  "description_en": "Brisk Walk — cardio movement targeting quadriceps, glutes.",
+  "category": "cardio",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Stand tall and walk at a purposeful pace.",
+    "Swing the arms naturally opposite the legs."
+  ],
+  "tips_en": [
+    "Choose a pace you can control and avoid overstriding."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/brisk-walk-a.webp",
+      "b": "images/webp/brisk-walk-b.webp",
+      "c": "images/webp/brisk-walk-c.webp"
+    },
+    "original": {
+      "a": "images/original/brisk-walk-a.png",
+      "b": "images/original/brisk-walk-b.png",
+      "c": "images/original/brisk-walk-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 1
+}

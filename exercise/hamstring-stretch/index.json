@@ -1,0 +1,54 @@
+{
+  "id": "hamstring-stretch",
+  "name_en": "Seated Hamstring Stretch",
+  "description_en": "Seated Hamstring Stretch — stretching movement targeting hamstrings.",
+  "category": "stretching",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "hamstrings"
+  ],
+  "secondary_muscles": [
+    "calves"
+  ],
+  "difficulty": "beginner",
+  "force_type": "static",
+  "mechanic": "isolation",
+  "motion_type": "hold",
+  "instructions_en": [
+    "Sit with one leg extended and the other bent comfortably.",
+    "Hinge forward toward the extended leg, hold gently and switch."
+  ],
+  "tips_en": [
+    "Avoid bouncing and stop before pain."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/hamstring-stretch-a.webp",
+      "b": "images/webp/hamstring-stretch-b.webp",
+      "c": "images/webp/hamstring-stretch-c.webp"
+    },
+    "original": {
+      "a": "images/original/hamstring-stretch-a.png",
+      "b": "images/original/hamstring-stretch-b.png",
+      "c": "images/original/hamstring-stretch-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 7
+}

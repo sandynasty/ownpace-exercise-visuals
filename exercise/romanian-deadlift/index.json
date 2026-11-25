@@ -1,0 +1,56 @@
+{
+  "id": "romanian-deadlift",
+  "name_en": "Romanian Deadlift",
+  "description_en": "Romanian Deadlift — strength movement targeting hamstrings, glutes.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "dumbbell",
+  "equipment_list": [
+    "dumbbell"
+  ],
+  "primary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "erector-spinae",
+    "core"
+  ],
+  "difficulty": "intermediate",
+  "force_type": "pull",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Stand with weights in front of thighs and knees slightly bent.",
+    "Hinge hips back until a comfortable hamstring stretch, then stand."
+  ],
+  "tips_en": [
+    "Keep the weights close and do not round the back."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/romanian-deadlift-a.webp",
+      "b": "images/webp/romanian-deadlift-b.webp",
+      "c": "images/webp/romanian-deadlift-c.webp"
+    },
+    "original": {
+      "a": "images/original/romanian-deadlift-a.png",
+      "b": "images/original/romanian-deadlift-b.png",
+      "c": "images/original/romanian-deadlift-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 3
+}

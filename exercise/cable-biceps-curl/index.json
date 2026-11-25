@@ -1,0 +1,55 @@
+{
+  "id": "cable-biceps-curl",
+  "name_en": "Cable Biceps Curl",
+  "description_en": "Cable Biceps Curl — strength movement targeting biceps.",
+  "category": "strength",
+  "body_part": "arms",
+  "equipment": "cable-machine",
+  "equipment_list": [
+    "cable-machine"
+  ],
+  "primary_muscles": [
+    "biceps"
+  ],
+  "secondary_muscles": [
+    "brachialis",
+    "forearms"
+  ],
+  "difficulty": "beginner",
+  "force_type": "pull",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Stand facing a low pulley and grasp the handle.",
+    "Bend elbows to curl, then lower under control."
+  ],
+  "tips_en": [
+    "Keep upper arms near the torso and avoid swinging."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/cable-biceps-curl-a.webp",
+      "b": "images/webp/cable-biceps-curl-b.webp",
+      "c": "images/webp/cable-biceps-curl-c.webp"
+    },
+    "original": {
+      "a": "images/original/cable-biceps-curl-a.png",
+      "b": "images/original/cable-biceps-curl-b.png",
+      "c": "images/original/cable-biceps-curl-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 6
+}

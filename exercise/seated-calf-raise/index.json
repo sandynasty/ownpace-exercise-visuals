@@ -1,0 +1,54 @@
+{
+  "id": "seated-calf-raise",
+  "name_en": "Seated Calf Raise",
+  "description_en": "Seated Calf Raise — strength movement targeting calves.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "calf-raise-machine",
+  "equipment_list": [
+    "calf-raise-machine"
+  ],
+  "primary_muscles": [
+    "calves"
+  ],
+  "secondary_muscles": [
+    "ankle-stabilizers"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Sit with forefeet supported and the resistance pad secured above the knees.",
+    "Raise heels and lower slowly."
+  ],
+  "tips_en": [
+    "Use a comfortable ankle range and avoid bouncing."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/seated-calf-raise-a.webp",
+      "b": "images/webp/seated-calf-raise-b.webp",
+      "c": "images/webp/seated-calf-raise-c.webp"
+    },
+    "original": {
+      "a": "images/original/seated-calf-raise-a.png",
+      "b": "images/original/seated-calf-raise-b.png",
+      "c": "images/original/seated-calf-raise-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Review footplate, resistance pad and ankle movement."
+  },
+  "source_batch": 2
+}

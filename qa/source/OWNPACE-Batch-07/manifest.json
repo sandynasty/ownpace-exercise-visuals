@@ -1,0 +1,23 @@
+{
+  "batch": 7,
+  "status": "QA candidate",
+  "exercise_count": 5,
+  "image_count": 15,
+  "images": [
+    "cat-cow-a.png",
+    "cat-cow-b.png",
+    "cat-cow-c.png",
+    "childs-pose-a.png",
+    "childs-pose-b.png",
+    "childs-pose-c.png",
+    "hamstring-stretch-a.png",
+    "hamstring-stretch-b.png",
+    "hamstring-stretch-c.png",
+    "hip-flexor-stretch-a.png",
+    "hip-flexor-stretch-b.png",
+    "hip-flexor-stretch-c.png",
+    "standing-quad-stretch-a.png",
+    "standing-quad-stretch-b.png",
+    "standing-quad-stretch-c.png"
+  ]
+}

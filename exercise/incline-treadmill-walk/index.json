@@ -1,0 +1,56 @@
+{
+  "id": "incline-treadmill-walk",
+  "name_en": "Incline Treadmill Walk",
+  "description_en": "Incline Treadmill Walk — cardio movement targeting glutes, quadriceps.",
+  "category": "cardio",
+  "body_part": "legs",
+  "equipment": "treadmill",
+  "equipment_list": [
+    "treadmill"
+  ],
+  "primary_muscles": [
+    "glutes",
+    "quadriceps"
+  ],
+  "secondary_muscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Set a manageable incline and walking speed.",
+    "Take comfortable uphill steps without leaning on the rails."
+  ],
+  "tips_en": [
+    "Reduce the grade if you cannot maintain a natural gait."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/incline-treadmill-walk-a.webp",
+      "b": "images/webp/incline-treadmill-walk-b.webp",
+      "c": "images/webp/incline-treadmill-walk-c.webp"
+    },
+    "original": {
+      "a": "images/original/incline-treadmill-walk-a.png",
+      "b": "images/original/incline-treadmill-walk-b.png",
+      "c": "images/original/incline-treadmill-walk-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Check consistent deck incline and gait."
+  },
+  "source_batch": 1
+}

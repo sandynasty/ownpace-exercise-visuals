@@ -1,0 +1,54 @@
+{
+  "id": "standing-calf-raise",
+  "name_en": "Standing Calf Raise",
+  "description_en": "Standing Calf Raise — strength movement targeting calves.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "calves"
+  ],
+  "secondary_muscles": [
+    "ankle-stabilizers"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Stand with feet flat and use a support for balance.",
+    "Lift the heels, pause, then lower slowly."
+  ],
+  "tips_en": [
+    "Keep weight centered over the forefoot without rolling the ankles."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/standing-calf-raise-a.webp",
+      "b": "images/webp/standing-calf-raise-b.webp",
+      "c": "images/webp/standing-calf-raise-c.webp"
+    },
+    "original": {
+      "a": "images/original/standing-calf-raise-a.png",
+      "b": "images/original/standing-calf-raise-b.png",
+      "c": "images/original/standing-calf-raise-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 2
+}

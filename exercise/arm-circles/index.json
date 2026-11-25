@@ -1,0 +1,54 @@
+{
+  "id": "arm-circles",
+  "name_en": "Arm Circles",
+  "description_en": "Arm Circles — mobility movement targeting deltoids.",
+  "category": "mobility",
+  "body_part": "shoulders",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "deltoids"
+  ],
+  "secondary_muscles": [
+    "upper-back"
+  ],
+  "difficulty": "beginner",
+  "force_type": "dynamic",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Stand tall and extend the arms comfortably to the sides.",
+    "Trace small controlled circles, then reverse direction."
+  ],
+  "tips_en": [
+    "Do not force a painful shoulder range."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/arm-circles-a.webp",
+      "b": "images/webp/arm-circles-b.webp",
+      "c": "images/webp/arm-circles-c.webp"
+    },
+    "original": {
+      "a": "images/original/arm-circles-a.png",
+      "b": "images/original/arm-circles-b.png",
+      "c": "images/original/arm-circles-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Three poses do not demonstrate a complete circle."
+  },
+  "source_batch": 1
+}

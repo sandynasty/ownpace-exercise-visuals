@@ -1,0 +1,57 @@
+{
+  "id": "split-squat",
+  "name_en": "Split Squat",
+  "description_en": "Split Squat — strength movement targeting quadriceps, glutes.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "core"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Take a staggered stance and keep both feet in place.",
+    "Lower by bending both knees, then rise.",
+    "Switch sides."
+  ],
+  "tips_en": [
+    "Maintain balance and keep the front knee tracking over the foot."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/split-squat-a.webp",
+      "b": "images/webp/split-squat-b.webp",
+      "c": "images/webp/split-squat-c.webp"
+    },
+    "original": {
+      "a": "images/original/split-squat-a.png",
+      "b": "images/original/split-squat-b.png",
+      "c": "images/original/split-squat-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 2
+}

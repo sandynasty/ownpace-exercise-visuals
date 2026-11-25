@@ -1,0 +1,54 @@
+{
+  "id": "hip-adduction-machine",
+  "name_en": "Hip Adduction Machine",
+  "description_en": "Hip Adduction Machine — strength movement targeting hip-adductors.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "hip-adduction-machine",
+  "equipment_list": [
+    "hip-adduction-machine"
+  ],
+  "primary_muscles": [
+    "hip-adductors"
+  ],
+  "secondary_muscles": [
+    "core"
+  ],
+  "difficulty": "beginner",
+  "force_type": "pull",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Sit with inner thighs against the pads in a comfortable open position.",
+    "Draw the knees together, then return slowly."
+  ],
+  "tips_en": [
+    "Do not force a wide starting position."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/hip-adduction-machine-a.webp",
+      "b": "images/webp/hip-adduction-machine-b.webp",
+      "c": "images/webp/hip-adduction-machine-c.webp"
+    },
+    "original": {
+      "a": "images/original/hip-adduction-machine-a.png",
+      "b": "images/original/hip-adduction-machine-b.png",
+      "c": "images/original/hip-adduction-machine-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Review pad positioning and fixed equipment."
+  },
+  "source_batch": 3
+}

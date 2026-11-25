@@ -1,0 +1,56 @@
+{
+  "id": "side-plank",
+  "name_en": "Kneeling Side Plank",
+  "description_en": "Kneeling Side Plank — strength movement targeting obliques.",
+  "category": "strength",
+  "body_part": "core",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "obliques"
+  ],
+  "secondary_muscles": [
+    "gluteus-medius",
+    "deltoids"
+  ],
+  "difficulty": "beginner",
+  "force_type": "static",
+  "mechanic": "compound",
+  "motion_type": "hold",
+  "instructions_en": [
+    "Lie on one side with knees bent and elbow below shoulder.",
+    "Lift hips to align shoulders, hips and knees.",
+    "Hold, lower and switch sides."
+  ],
+  "tips_en": [
+    "Keep the supporting shoulder stable and avoid rotating the torso."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/side-plank-a.webp",
+      "b": "images/webp/side-plank-b.webp",
+      "c": "images/webp/side-plank-c.webp"
+    },
+    "original": {
+      "a": "images/original/side-plank-a.png",
+      "b": "images/original/side-plank-b.png",
+      "c": "images/original/side-plank-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Depicts bent-knee version, not full straight-leg side plank."
+  },
+  "source_batch": 6
+}

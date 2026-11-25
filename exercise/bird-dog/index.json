@@ -1,0 +1,56 @@
+{
+  "id": "bird-dog",
+  "name_en": "Bird Dog",
+  "description_en": "Bird Dog — strength movement targeting core, erector-spinae.",
+  "category": "strength",
+  "body_part": "core",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "core",
+    "erector-spinae"
+  ],
+  "secondary_muscles": [
+    "glutes",
+    "deltoids"
+  ],
+  "difficulty": "beginner",
+  "force_type": "static",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Start on hands and knees.",
+    "Extend opposite arm and leg, pause, return, then alternate."
+  ],
+  "tips_en": [
+    "Keep the pelvis level and avoid lumbar rotation."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/bird-dog-a.webp",
+      "b": "images/webp/bird-dog-b.webp",
+      "c": "images/webp/bird-dog-c.webp"
+    },
+    "original": {
+      "a": "images/original/bird-dog-a.png",
+      "b": "images/original/bird-dog-b.png",
+      "c": "images/original/bird-dog-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 6
+}

@@ -1,0 +1,56 @@
+{
+  "id": "walking-lunge",
+  "name_en": "Walking Lunge",
+  "description_en": "Walking Lunge — strength movement targeting quadriceps, glutes.",
+  "category": "strength",
+  "body_part": "legs",
+  "equipment": "bodyweight",
+  "equipment_list": [
+    "bodyweight"
+  ],
+  "primary_muscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "core"
+  ],
+  "difficulty": "intermediate",
+  "force_type": "push",
+  "mechanic": "compound",
+  "motion_type": "cycle",
+  "instructions_en": [
+    "Step forward and lower into a lunge.",
+    "Drive through the front foot to rise and take the next step with the other leg."
+  ],
+  "tips_en": [
+    "Stay balanced and avoid bouncing off the rear knee."
+  ],
+  "is_bodyweight": true,
+  "is_unilateral": true,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/walking-lunge-a.webp",
+      "b": "images/webp/walking-lunge-b.webp",
+      "c": "images/webp/walking-lunge-c.webp"
+    },
+    "original": {
+      "a": "images/original/walking-lunge-a.png",
+      "b": "images/original/walking-lunge-b.png",
+      "c": "images/original/walking-lunge-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Review step-to-step continuity; do not loop by reversing."
+  },
+  "source_batch": 2
+}

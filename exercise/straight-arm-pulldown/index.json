@@ -1,0 +1,55 @@
+{
+  "id": "straight-arm-pulldown",
+  "name_en": "Straight-Arm Pulldown",
+  "description_en": "Straight-Arm Pulldown — strength movement targeting lats.",
+  "category": "strength",
+  "body_part": "back",
+  "equipment": "cable-machine",
+  "equipment_list": [
+    "cable-machine"
+  ],
+  "primary_muscles": [
+    "lats"
+  ],
+  "secondary_muscles": [
+    "triceps",
+    "core"
+  ],
+  "difficulty": "intermediate",
+  "force_type": "pull",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Stand facing a high pulley with arms extended and elbows soft.",
+    "Sweep the handle toward the thighs, then return."
+  ],
+  "tips_en": [
+    "Maintain a steady elbow angle and avoid arching the back."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/straight-arm-pulldown-a.webp",
+      "b": "images/webp/straight-arm-pulldown-b.webp",
+      "c": "images/webp/straight-arm-pulldown-c.webp"
+    },
+    "original": {
+      "a": "images/original/straight-arm-pulldown-a.png",
+      "b": "images/original/straight-arm-pulldown-b.png",
+      "c": "images/original/straight-arm-pulldown-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 5
+}

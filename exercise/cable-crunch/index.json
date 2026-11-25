@@ -1,0 +1,54 @@
+{
+  "id": "cable-crunch",
+  "name_en": "Kneeling Cable Crunch",
+  "description_en": "Kneeling Cable Crunch — strength movement targeting rectus-abdominis.",
+  "category": "strength",
+  "body_part": "core",
+  "equipment": "cable-machine",
+  "equipment_list": [
+    "cable-machine"
+  ],
+  "primary_muscles": [
+    "rectus-abdominis"
+  ],
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "difficulty": "intermediate",
+  "force_type": "pull",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Kneel facing a high pulley and hold the rope near the head.",
+    "Flex the torso toward the pelvis, then return slowly."
+  ],
+  "tips_en": [
+    "Move through the trunk rather than pulling with the arms."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/cable-crunch-a.webp",
+      "b": "images/webp/cable-crunch-b.webp",
+      "c": "images/webp/cable-crunch-c.webp"
+    },
+    "original": {
+      "a": "images/original/cable-crunch-a.png",
+      "b": "images/original/cable-crunch-b.png",
+      "c": "images/original/cable-crunch-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "high",
+    "notes": "Previously reassigned imagery; confirm cable mechanics."
+  },
+  "source_batch": 6
+}

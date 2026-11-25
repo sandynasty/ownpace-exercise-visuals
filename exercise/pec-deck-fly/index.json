@@ -1,0 +1,54 @@
+{
+  "id": "pec-deck-fly",
+  "name_en": "Pec Deck Fly",
+  "description_en": "Pec Deck Fly — strength movement targeting pectorals.",
+  "category": "strength",
+  "body_part": "chest",
+  "equipment": "pec-deck-machine",
+  "equipment_list": [
+    "pec-deck-machine"
+  ],
+  "primary_muscles": [
+    "pectorals"
+  ],
+  "secondary_muscles": [
+    "anterior-deltoids"
+  ],
+  "difficulty": "beginner",
+  "force_type": "push",
+  "mechanic": "isolation",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Adjust seat height and take hold of the handles.",
+    "Bring arms together in front of the chest, then open slowly."
+  ],
+  "tips_en": [
+    "Maintain a slight elbow bend and avoid overstretching."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/pec-deck-fly-a.webp",
+      "b": "images/webp/pec-deck-fly-b.webp",
+      "c": "images/webp/pec-deck-fly-c.webp"
+    },
+    "original": {
+      "a": "images/original/pec-deck-fly-a.png",
+      "b": "images/original/pec-deck-fly-b.png",
+      "c": "images/original/pec-deck-fly-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 4
+}

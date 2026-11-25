@@ -1,0 +1,55 @@
+{
+  "id": "back-extension",
+  "name_en": "Back Extension",
+  "description_en": "Back Extension — strength movement targeting erector-spinae, glutes.",
+  "category": "strength",
+  "body_part": "back",
+  "equipment": "back-extension-bench",
+  "equipment_list": [
+    "back-extension-bench"
+  ],
+  "primary_muscles": [
+    "erector-spinae",
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "hamstrings"
+  ],
+  "difficulty": "intermediate",
+  "force_type": "pull",
+  "mechanic": "compound",
+  "motion_type": "repetition",
+  "instructions_en": [
+    "Adjust the pad below the hip crease and secure the feet.",
+    "Hinge forward and raise the torso to a neutral line."
+  ],
+  "tips_en": [
+    "Avoid extending past neutral or moving abruptly."
+  ],
+  "is_bodyweight": false,
+  "is_unilateral": false,
+  "images": {
+    "ownpace": {
+      "a": "images/webp/back-extension-a.webp",
+      "b": "images/webp/back-extension-b.webp",
+      "c": "images/webp/back-extension-c.webp"
+    },
+    "original": {
+      "a": "images/original/back-extension-a.png",
+      "b": "images/original/back-extension-b.png",
+      "c": "images/original/back-extension-c.png"
+    }
+  },
+  "frame_order": [
+    "a",
+    "b",
+    "c"
+  ],
+  "qa": {
+    "technical": "passed",
+    "biomechanics": "pending",
+    "priority": "normal",
+    "notes": "Final anatomy, equipment, phase and muscle-map review pending."
+  },
+  "source_batch": 5
+}
